@@ -1,0 +1,2595 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The flovver garden Shewing briefly how most flowers are to be ordered, the time of flowering, taking of them up, and of planting them again. And how they are increased by layers, off sets, slips, cuttings, seeds, &amp;c. With other necessary observations relating to a flower garden. VVhereunto is now added. The gardiners or planters dialling, (viz.) how to draw a horizontal diall, as a knot in a garden, on a grass-plot, or elsewhere, the like before not extant. By William Hughes.</title>
+            <author>Hughes, William, fl. 1665-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 75 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44924</idno>
+            <idno type="STC">Wing H3337</idno>
+            <idno type="STC">ESTC R215414</idno>
+            <idno type="EEBO-CITATION">99827304</idno>
+            <idno type="PROQUEST">99827304</idno>
+            <idno type="VID">31722</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44924)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31722)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1890:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The flovver garden Shewing briefly how most flowers are to be ordered, the time of flowering, taking of them up, and of planting them again. And how they are increased by layers, off sets, slips, cuttings, seeds, &amp;c. With other necessary observations relating to a flower garden. VVhereunto is now added. The gardiners or planters dialling, (viz.) how to draw a horizontal diall, as a knot in a garden, on a grass-plot, or elsewhere, the like before not extant. By William Hughes.</title>
+                  <author>Hughes, William, fl. 1665-1683.</author>
+               </titleStmt>
+               <extent>[12], 100, [6], p., [4] folded leaves : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for William Crook at the Green-Dragon without Temple Barr,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With two final advertisement leaves.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Flower gardening --  Early works to 1800.</term>
+               <term>Viticulture --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31722:1"/>
+            <pb facs="tcp:31722:1"/>
+            <p>The FLOWER Garden.</p>
+            <p>Shewing Briefly how moſt Flowers are to be ordered, the time of Flower<g ref="char:EOLhyphen"/>ing, taking of them up, and of planting them again. And how they are increaſed by Layers, Off ſets, Slips, Curtings, Seed, <hi>&amp;c.</hi> With other neceſſa<g ref="char:EOLhyphen"/>ry obſervations relating to a Flower Garden.</p>
+            <p>VVhereunto is now added.</p>
+            <p>The Gardiners or Planters Dialling, <hi>(viz.)</hi> how to draw a Horizontal Diall, as a Knot in a Garden, on a Graſs-plot, or elſewhere, the like before not extant.</p>
+            <p>By <hi>William Hughes.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>William Crook</hi> at the <hi>Green-Dragon</hi> without <hi>Temple Barr,</hi> 1672.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:31722:2"/>
+            <pb facs="tcp:31722:2"/>
+            <head>To the Reader.</head>
+            <p>ALmighty God, the only firſt being, the Maker and Diſ<g ref="char:EOLhyphen"/>poſer of all things, made the World out of nothing, and hath ever ſince (as at this time) govern<g ref="char:EOLhyphen"/>ed the ſame, who alſo made man of the duſt of the earth, and put him in an undoubtedly pleaſant Garden, but he, by reaſon of his diſobedience, being turned forth, it is impoſſible for us his posterity ever to attain unto the like here below; yet doubt<g ref="char:EOLhyphen"/>leſs by induſtry and pains taking in that lovely, honeſt, and delightful recreation of planting, we may gain ſome little glimmering of that loſt ſplendour, although with much diffi<g ref="char:EOLhyphen"/>culty, and the more, by reaſon of that apparent variation in nature,
+<pb facs="tcp:31722:3"/>all elementary bodies never ſtand<g ref="char:EOLhyphen"/>ing at a ſtay, but are ever increa<g ref="char:EOLhyphen"/>ſing or decreaſing, the Sun cauſing day and night, Summer, and Win<g ref="char:EOLhyphen"/>ter, <hi>&amp;c.</hi> whoſe preſence and nearer approach doth, as it were, revive and bring to life many beautiful Ve<g ref="char:EOLhyphen"/>getables, and in whoſe abſence they mourn, wither, languiſh and decay, new varieties being every year brought to light; ſo wonderful in<g ref="char:EOLhyphen"/>deed are the works of nature, that the leaſt graſs doth not only deſerve our contemplation, but admiration, as not able to trace its foot-ſteps to its firſt nothing; much more admi<g ref="char:EOLhyphen"/>rable then are the various beautiful Flowers, and ever greens (far ſur<g ref="char:EOLhyphen"/>paſſing all Art) in a good and well ordered Garden; which are already reconciled to this our colder Cli<g ref="char:EOLhyphen"/>mate, and doubtleſs many more in time will be, eſpecially if thoſe lear<g ref="char:EOLhyphen"/>ned of the Royal Society, whoſe fan<g ref="char:EOLhyphen"/>cies
+<pb facs="tcp:31722:3"/>run this way, would be pleaſed to imploy their further indeavours herein.</p>
+            <p>Now concerning this practical diſ<g ref="char:EOLhyphen"/>courſe of Flowers, it might have been drawn out to the young Gardeners <hi>vade mecum,</hi> had not the unexpect<g ref="char:EOLhyphen"/>ed haſting of it to the Preſs preven<g ref="char:EOLhyphen"/>ted, which alſo cauſed many miſtakes, which I have not only endeavoured to amend, but alſo have added ſome<g ref="char:EOLhyphen"/>thing to this ſecond impreſſion, be<g ref="char:EOLhyphen"/>cauſe of the more then ordinary ac<g ref="char:EOLhyphen"/>ceptance the firſt found (which in three months time were all ſold; notwithſtanding the homely dreſs it appeared in) nor do I intend this first part to Flowriſts, Gardeners, or others, who have experience in this recreation, though to them alſo it may be uſeful, but chiefly for more plain and ordinary Country men and women as a perpetual Alma<g ref="char:EOLhyphen"/>nack or Remembrancer of them
+<pb facs="tcp:31722:4"/>when, and which way, most of their Flowers are to be ordered, although not the full circumſtance of doing every particular thereunto belong<g ref="char:EOLhyphen"/>ing; and the rather I commend it to ſuch, becauſe for the want of theſe or the like inſtructions, many oppor<g ref="char:EOLhyphen"/>tunities I find are let ſlip of taking up, removing, planting, &amp;c, which cannot be recalled; beſides, the price hereof is ſmall, and therefore within the moſt ordinary reach which larger books are not,</p>
+            <p>I am ſure this will hurt none, nei<g ref="char:EOLhyphen"/>ther is there any but know that books have their errours and fate as well as their Authors, and there<g ref="char:EOLhyphen"/>fore I hope will offend none; but many there be in the world as one ſaith (and I find it to be true) that carp and cenſure, becauſe <hi>mala mens malus animus,</hi> an evil mind in it ſelf, is an evil mind to all o<g ref="char:EOLhyphen"/>thers; but as for men indued with
+<pb facs="tcp:31722:4"/>more ſobriety, I know where there is ſeveral constructions may be made they will take the moſt favour<g ref="char:EOLhyphen"/>able, and not make more thereof then is meant, nor eſpie more in o<g ref="char:EOLhyphen"/>thers than conſequently may be per<g ref="char:EOLhyphen"/>ceived in themſelves; So that were I able to gratifie ſuch, it would be the higheſt ambition of their most humble Servant,</p>
+            <closer>
+               <signed>W. Hughes.</signed>
+            </closer>
+         </div>
+         <div type="index">
+            <pb facs="tcp:31722:5"/>
+            <head>The Table</head>
+            <list>
+               <head>A</head>
+               <item>AFricanes <hi>Page 8</hi>
+               </item>
+               <item>Amaranthus <hi>Page 7</hi>
+               </item>
+               <item>Anemones <hi>Page 20</hi>
+               </item>
+               <item>Anconitum <hi>Page 52</hi>
+               </item>
+               <item>Arbor-vitae <hi>Page 57</hi>
+               </item>
+               <item>Aſpodils <hi>Page 23</hi>
+               </item>
+               <item>Auricula's <hi>Page 24</hi>
+               </item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>Baſtard Sena <hi>Page 57</hi>
+               </item>
+               <item>Bears-ears <hi>Page 24</hi>
+               </item>
+               <item>Of a hot bed <hi>Page 4</hi>
+               </item>
+               <item>Bell-flower <hi>Page 25</hi>
+               </item>
+               <item>Bindweed <hi>Page 7</hi>
+               </item>
+               <item>Blew-bottles <hi>Page 15</hi>
+               </item>
+               <item>Bulbous violets <hi>Page 25</hi>
+               </item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>Champians <hi>Page 57</hi>
+               </item>
+               <item>Candy tufts <hi>Page 12</hi>
+               </item>
+               <item>Cardinal flower <hi>Page 25</hi>
+               </item>
+               <item>Carnations <hi>Page 26</hi>
+               </item>
+               <item>Catter-pillers <hi>Page 11</hi>
+               </item>
+               <item>Champions <hi>Page 33</hi>
+               </item>
+               <item>Ciſtus <hi>Page 27</hi>
+               </item>
+               <item>Colombines <hi>Page 17</hi>
+               </item>
+               <item>Corn-flags <hi>Page 53</hi>
+               </item>
+               <item>Corn flowers <hi>Page 15</hi>
+               </item>
+               <item>Cowſlips <hi>Page 28</hi>
+               </item>
+               <item>Crocuſſes <hi>Page 28</hi>
+               </item>
+               <item>Crows-foot <hi>Page 54</hi>
+               </item>
+               <item>Cyclamen <hi>Page 30</hi>
+               </item>
+               <item>Crown Imperial <hi>Page 29</hi>
+               </item>
+            </list>
+            <pb facs="tcp:31722:5"/>
+            <list>
+               <head>D</head>
+               <item>Daffodils <hi>Page 30</hi>
+               </item>
+               <item>Daſies <hi>Page 31</hi>
+               </item>
+               <item>Dogs teeth <hi>Page 57</hi>
+               </item>
+               <item>Double Hollyocks <hi>Page 17</hi>
+               </item>
+               <item>Double poppies <hi>Page 18</hi>
+               </item>
+               <item>Dung <hi>Page 2</hi>
+               </item>
+            </list>
+            <list>
+               <head>E</head>
+               <item>Emanies, ſee Ane<g ref="char:EOLhyphen"/>mones</item>
+               <item>Everlaſting peaſe <hi>Page 11</hi>
+               </item>
+            </list>
+            <list>
+               <head>F</head>
+               <item>Fennel Flowers <hi>Page 13</hi>
+               </item>
+               <item>Flower deluces <hi>Page 32</hi>
+               </item>
+               <item>Flower of Briſtol <hi>Page 33</hi>
+               </item>
+               <item>Fower gentle, ſee Amaranthus</item>
+               <item>Flowers raiſed by Layers <hi>Page 49</hi>
+               </item>
+               <item>Flowers increaſed by ſlips. <hi>Page 56</hi>
+               </item>
+               <item>Flowers raiſed by off<g ref="char:EOLhyphen"/>ſets <hi>Page 52</hi>
+               </item>
+               <item>Flowers of the Sun <hi>Page 33</hi>
+               </item>
+               <item>Fox Gloves <hi>Page 16</hi>
+               </item>
+               <item>Fraxinella <hi>Page 34</hi>
+               </item>
+               <item>French Honey ſuck<g ref="char:EOLhyphen"/>les <hi>Page 10</hi>
+               </item>
+               <item>French marigolds <hi>Page 8</hi>
+               </item>
+               <item>Frittillaries <hi>Page 34</hi>
+               </item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>Garden Mallows <hi>Page 16</hi>
+               </item>
+               <item>Gilder Roſe <hi>Page 58</hi>
+               </item>
+               <item>Gilly Flowers <hi>Page 26</hi>
+               </item>
+               <item>Gilly Flowers win<g ref="char:EOLhyphen"/>ter <hi>Page 34</hi>
+               </item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>Helebore <hi>Page 36</hi>
+               </item>
+               <item>Hepatica <hi>Page 37</hi>
+               </item>
+               <item>Herb Mullen <hi>Page 14</hi>
+               </item>
+               <item>Honey-ſuckles <hi>Page 37</hi>
+               </item>
+               <item>Of a hot bed <hi>Page 4</hi>
+               </item>
+               <item>Hypericum frutex <hi>Page 50</hi>
+               </item>
+            </list>
+            <pb facs="tcp:31722:6"/>
+            <list>
+               <head>J</head>
+               <item>Ja<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ints <hi>Page 37</hi>
+               </item>
+               <item>Jaſmies <hi>Page 50</hi>
+               </item>
+               <item>Indian Creſſes <hi>Page 14</hi>
+               </item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>Lady ſmocks dou<g ref="char:EOLhyphen"/>ble <hi>Page 37</hi>
+               </item>
+               <item>Larks heels <hi>Page 14, 15</hi>
+               </item>
+               <item>Larks ſpurs <hi>Page 15</hi>
+               </item>
+               <item>Lavender <hi>Page 58</hi>
+               </item>
+               <item>Lichnis Calcedoni<g ref="char:EOLhyphen"/>ca <hi>Page 33</hi>
+               </item>
+               <item>Lillies <hi>Page 53</hi>
+               </item>
+               <item>Liverwort <hi>Page 37</hi>
+               </item>
+               <item>London pride, ſee ſweet Williams</item>
+               <item>Lupines <hi>Page 12</hi>
+               </item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>Margerome gen<g ref="char:EOLhyphen"/>tle <hi>Page 58</hi>
+               </item>
+               <item>Marvile of peru <hi>Page 8</hi>
+               </item>
+               <item>Maſtick <hi>Page 59</hi>
+               </item>
+               <item>Meddow Saffron <hi>Page 38</hi>
+               </item>
+               <item>Meddow ſweet <hi>Page 38</hi>
+               </item>
+               <item>Mizerions <hi>Page 39</hi>
+               </item>
+               <item>Moly's <hi>Page 39</hi>
+               </item>
+               <item>The monethly Kal<g ref="char:EOLhyphen"/>lender <hi>Page 62</hi>
+               </item>
+               <item>Mortagons <hi>Page 53</hi>
+               </item>
+            </list>
+            <list>
+               <head>N</head>
+               <item>Narriſſes <hi>Page 39</hi>
+               </item>
+               <item>Nerſterians <hi>Page 6</hi>
+               </item>
+               <item>Nigella <hi>Page 13</hi>
+               </item>
+               <item>Nightſhade <hi>Page 39</hi>
+               </item>
+               <item>Non-ſuch <hi>Page 33, 59</hi>
+               </item>
+            </list>
+            <list>
+               <head>O</head>
+               <item>Oxlips <hi>Page 28</hi>
+               </item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>Paeones <hi>Page 4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Perſian Lillies <hi>Page 54</hi>
+               </item>
+               <item>Pinks <hi>Page 4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Pipe tree <hi>Page 5<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Plants &amp;c. of ſe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> not ſown in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> beds <hi>Page <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Pomegranat tree <hi>Page 5<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Poimroſes <hi>Page 4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </item>
+            </list>
+            <pb facs="tcp:31722:6"/>
+            <list>
+               <head>Q</head>
+               <item>Queens Gilly-flow<g ref="char:EOLhyphen"/>ers <hi>Page 36</hi>
+               </item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>Ranunculeſſes <hi>Page 54</hi>
+               </item>
+               <item>Red ſatten flower <hi>Page 10</hi>
+               </item>
+               <item>Roſes <hi>Page 50</hi>
+               </item>
+               <item>Roſemary <hi>Page 41, 59</hi>
+               </item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>Sage <hi>Page 60</hi>
+               </item>
+               <item>Saffron flowers <hi>Page 41</hi>
+               </item>
+               <item>Sateririons <hi>Page 25</hi>
+               </item>
+               <item>Scarlet Beans <hi>Page 12</hi>
+               </item>
+               <item>Scarlet Kidney Beanes <hi>Page 12</hi>
+               </item>
+               <item>Shrub Mallows <hi>Page 50</hi>
+               </item>
+               <item>Shrub nightſhade <hi>Page 50</hi>
+               </item>
+               <item>Shrub ſpi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aea <hi>Page 50</hi>
+               </item>
+               <item>Snailes <hi>Page 11</hi>
+               </item>
+               <item>Snap dragon <hi>Page 16</hi>
+               </item>
+               <item>Southerwood <hi>Page 60</hi>
+               </item>
+               <item>Sowbread <hi>Page 30</hi>
+               </item>
+               <item>Spaniſh broom <hi>Page 41</hi>
+               </item>
+               <item>Star flowers <hi>Page 42</hi>
+               </item>
+               <item>Stock Gilliflowers <hi>Page 35</hi>
+               </item>
+               <item>Stone Crop <hi>Page 60</hi>
+               </item>
+               <item>Stramonium <hi>Page 13</hi>
+               </item>
+               <item>Straberry Tree <hi>Page 42</hi>
+               </item>
+               <item>Sumach <hi>Page 60</hi>
+               </item>
+               <item>Sun flowers <hi>Page 42</hi>
+               </item>
+               <item>Sweet Baſil <hi>Page 9, 10</hi>
+               </item>
+               <item>Sweet John <hi>Page 43</hi>
+               </item>
+               <item>Sweet marjerom <hi>Page 9, 10</hi>
+               </item>
+               <item>Sweet Williams <hi>Page 43</hi>
+               </item>
+               <item>Spring, ſee Pipetree</item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>Thorne apple <hi>Page 13</hi>
+               </item>
+               <item>Time <hi>Page 60</hi>
+               </item>
+               <item>Tree of life <hi>Page 57</hi>
+               </item>
+               <item>Trefoile <hi>Page 61</hi>
+               </item>
+               <item>Tulips <hi>Page 43</hi>
+               </item>
+            </list>
+            <pb facs="tcp:31722:7"/>
+            <list>
+               <head>V</head>
+               <item>Virgins bower <hi>Page 51</hi>
+               </item>
+            </list>
+            <list>
+               <head>W</head>
+               <item>Wall flowers <hi>Page 34</hi>
+               </item>
+               <item>Wild. and Toad flax <hi>Page 16</hi>
+               </item>
+               <item>Woodbine <hi>Page 51</hi>
+               </item>
+               <item>Wolfsbane <hi>Page 52</hi>
+               </item>
+               <item>Winter Cherries <hi>Page 48</hi>
+               </item>
+               <item>Woody St. Johns-wort <hi>Page 50</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:31722:7"/>
+            <head>THE FLOWER-GARDEN Epitomiz'd.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hoſoever they are that intend a Flower-Gar<g ref="char:EOLhyphen"/>den, ought to have either a Nurſerie, or elſe ſome con<g ref="char:EOLhyphen"/>venient place in the Kitchen-Gar<g ref="char:EOLhyphen"/>den, Both for the making of hot Beds, whereon to raiſe tender Plants (by Seeds) that will not en<g ref="char:EOLhyphen"/>dure the Winter; as alſo to have other neceſſary Beds therein of
+<pb n="2" facs="tcp:31722:8"/>good earth, fit to ſow ſuch Seed on that requires not ſo great a heat as the other; which ſeedlings when they are grown up, may be im<g ref="char:EOLhyphen"/>mediately removed into the Flower-Garden, or elſe ſet in ſome order in the ſame place, or on a fitting Bed in that Garden, to re<g ref="char:EOLhyphen"/>main until ſuch time they bear Flowers; and then thoſe which are double, and ſuch other as are acceptable, may be tranſplanted into ſuch places of the Flower-Garden as you ſee convenient; and the reſt may be caſt away as little woth.</p>
+            <p>And there ought always to kep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in a readineſs for this purpoſe, ſe<g ref="char:EOLhyphen"/>veral ſorts of good Dung, every ſort by it ſelf, mixing Lime with ſome of it; ſo that after it hath continued a while and is petrified and that it will molder &amp; crumb<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> into ſmall particles in ſifting, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:31722:8"/>may be then applyed with diſcre<g ref="char:EOLhyphen"/>tion, according to the nature of the Ground, and quality of the Flowers.</p>
+            <p>If the ground be naturally cold, as Clay-ground for the moſt part is, or moiſt, as Fenny-ground uſu<g ref="char:EOLhyphen"/>ally is, then Pigeons, Hens, or Horſe Dung is the beſt; If it be naturally <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot ground, Hogs-dung well rot<g ref="char:EOLhyphen"/>ted is good; and indeed for almoſt all Flowers &amp; tender Plants, Sheeps dung mingled with earth well rot<g ref="char:EOLhyphen"/>ted together, is good, it being fine<g ref="char:EOLhyphen"/>ly fitted; or elſe in ſome reſpects, very good mold alone is uſed; but eſpecially for the raiſing of choice Flowers by Seed, the earth of Wil<g ref="char:EOLhyphen"/>lows is the beſt.</p>
+            <p>The laſt mentioned ſorts of Dung are alſo very good to be ſteeped in water; for to water Seeds and te<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Plants, for the bringing them <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o a r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſonable ſtrength; and
+<pb n="4" facs="tcp:31722:9"/>alſo it is very good for to water young Layers withal, provide the ſeaſon be not too very hot.</p>
+            <div type="part">
+               <head>Of a Hot Bed.</head>
+               <p>
+                  <hi>A Hot Bed</hi> ought to be made<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Horſe-dung, with ſome Straw <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Hay amongſt it newly taken from the Stable, and laid of what bred<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and length you think that you ſhall have occaſion for to make uſe of it may be laid a yard, or four for thick or more, binding it abo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> with Hay, or Straw-bands, to ke<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> it handſomely up together, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> lay fine rank ſifted mold on it fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inches, or about 5 fingers bread in depth; then arch or roof it o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with Hoops or Sticks ſo as to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> up our Tilt, Mats, Straw, or w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> elſe you intend to cover it wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and being cloſe covered, l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain for the ſpace of 4 or 5 da<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:31722:9"/>until the violent heat be a little <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver; and then give it ſome air, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow your Seeds thereon, endea<g ref="char:EOLhyphen"/>vouring afterwards as nigh as you can to keep it in a temperate heat, and when your Seedlings are green, air them at convenient times, when winds, and cold, or great ſtore of wet will not much offend them, uſing beſides Mats, alſo to cover them with Cup glaſſes, or Caſe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nts as wel when they are plant<g ref="char:EOLhyphen"/>ed on the ſecond Bed (as now at the firſt) at all ſuch times as are neceſſary, or elſe if ſuch diligence be not uſed, you run the hazzard of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooſing many hopeful Plants.</p>
+               <p>As your Plants grow ſtrong, either remove them to another Bed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs hot, or elſe plant them in good earth here and there in your Gar<g ref="char:EOLhyphen"/>den, as you ſee good, watering them at all ſeaſonable times requi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed.</p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:31722:10"/>
+               <head>Flowers which are raiſed by Seeds from an Hot Bed, are,</head>
+               <list>
+                  <item>Africanes.</item>
+                  <item>Amaranthus.</item>
+                  <item>Blind-weed.</item>
+                  <item>Marvile of Peru, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+               <p>There are other choyce Seeds ſown on Hot Beds, ſome of which more properly belong to the Kitchen-Garden, as <hi>Melons, Gourds, Cucumbers, early Lettice,</hi> &amp;c.</p>
+               <p>
+                  <hi>Nerſtertians,</hi> Flower in <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> and are raiſed from Seed ſown on a hot bed in <hi>March,</hi> and when the Plants are pretty ſtrong, and the heat of the firſt Bed faileth, they are to be removed with ſome of the ſame mould about the roo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:31722:10"/>to a ſecond hot Bed, and in <hi>May</hi> removed from thence into good ground, and where they may be moſt in the Sun, till they Flower and bear Seed.</p>
+               <p>
+                  <hi>Bind weed,</hi> the greater kinde flowereth in <hi>September;</hi> and they are every year raiſed by ſowing the Seed on a hot Bed, and afterwards re-planted in ſuch order as other nice Plants are.</p>
+               <p>
+                  <hi>Amaranthus</hi> or <hi>Flower-gentle,</hi> do moſt commonly flower in <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> or <hi>September,</hi> and they are raiſed from Seed which ought to be ſown on a hot Bed in <hi>March,</hi> and to have them forwardly to bear good Seed, when the heat of the firſt Bed faileth, being now pretty well grown up, remove them with the mould about the root altoge<g ref="char:EOLhyphen"/>ther to another Bed, and then again im <hi>May</hi> tranſplant them into ſuch places (the earth being made very
+<pb n="8" facs="tcp:31722:11"/>good) that lie to the Sun where, they may ſtand all the Summer to Flower and Seed.</p>
+               <p>
+                  <hi>Africanes,</hi> or <hi>French Marigolds,</hi> flower in <hi>Auguſt</hi> or <hi>September;</hi> and are raiſed by Seed ſown on a Hot Bed in the end of <hi>March,</hi> or the be<g ref="char:EOLhyphen"/>ginning of <hi>April,</hi> and when the Plants are grown up almoſt a foot, or at leaſt when they are rea<g ref="char:EOLhyphen"/>ſonable ſtrong, they may be remo<g ref="char:EOLhyphen"/>ved into the Garden in good Earth in the out Borders where, they may have room, and ſtand in the Sun to Flower and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eed.</p>
+               <p>
+                  <hi>Marvile</hi> of <hi>Peru,</hi> do common<g ref="char:EOLhyphen"/>ly flower from <hi>July,</hi> until cold mornings check them; they are raiſed of Seeds which are to be ſet in the month of <hi>April</hi> in a Hot bed, and afterwards removed into the Garden, where they may have the moſt benefit of the Sun, and ſo will they flower the ſooner, but it
+<pb n="9" facs="tcp:31722:11"/>they bear not Seed the firſt year, then cover them from the cold in winter, and the next Summer they will be forwardly Plants for Seed; or the roots may be taken up at the beginning of Winter, and dryed, and kept in a box of Wooll, and being ſet in good mould again in <hi>March,</hi> they will then proſper.</p>
+            </div>
+            <div type="part">
+               <head>Of Plants and Flowers raiſed of Seeds which are not ſown on Hot Beds.</head>
+               <p>FIrſt <hi>Sweet-Marjerom,</hi> and <hi>Sweet-Baſſil,</hi> although they bear no beautiful Flowers, yet for their o<g ref="char:EOLhyphen"/>doriferous ſcent may properly here be added, becauſe they are often put into Noſe-gays, Sweet-waters, Perfumes, <hi>&amp;c.</hi> Red-Sattin flower, Snails and Cate<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pillers (Flowers ſo called,) everlaſting Peaſe, ſcar<g ref="char:EOLhyphen"/>let
+<pb n="10" facs="tcp:31722:12"/>Beans, Lupines, Candy-Tufts, Love-Apples, Stramonium, or Thorn-Apples, Nigella, or Fennel flowers, Herb mullen, Indian-creſ<g ref="char:EOLhyphen"/>ſes or yellow Larks-heels, Larks-heels or Larks-ſpurs, Corn-flower, Thiſtles, Fox-gloves, Tode-flax, or wild-flax, Snap Dragons, Colom<g ref="char:EOLhyphen"/>bines, double Holioaks or Garden-Mallows; theſe are Flowers raiſed every ſecond year at the leaſt, of which in order as followeth.</p>
+               <p>
+                  <hi>Sweet-Marjerom,</hi> is raiſed of Seed, it being every year ſowed in <hi>April,</hi> upon good and fine mould, by reaſon it is often put in Noſe-gayes, the pleaſant ſcent thereof much comforting the Brain.</p>
+               <p>
+                  <hi>Sweet-Baſſil,</hi> is raiſed from Seed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>own in <hi>April,</hi> in very good ſifted earth, and is commonly uſed for thoſe intents and purpoſes as <hi>Sweet-Marjerom</hi> is.</p>
+               <p>
+                  <hi>Red-Satten-Flower,</hi> or <hi>French-Honey-Suckles</hi>
+                  <pb n="11" facs="tcp:31722:12"/>flower in <hi>June</hi> and <hi>July,</hi> and they are raiſed from ſeed, being ſown in <hi>April;</hi> but for the moſt part they flower not till the ſecond year after they are ſown, and then the Seed ought to be pre<g ref="char:EOLhyphen"/>ſerved for increaſe.</p>
+               <p>
+                  <hi>Snails</hi> and <hi>Caterpillers</hi> (ſo called from the ſimilitude they have with thoſe Animals) are all the ſorts raiſed from Seed ſowed in <hi>April,</hi> which muſt be ſupported when they are grown, they cannot pro<g ref="char:EOLhyphen"/>perly be called Flowers, but they have very pretty heads.</p>
+               <p>
+                  <hi>Everlaſting Peaſe,</hi> ſo called be<g ref="char:EOLhyphen"/>cauſe the Root continueth long, &amp; they are call'd <hi>Peaſe,</hi> becauſe the grain is much like unto <hi>Peaſe;</hi> they are raiſed of Seed ſowed in <hi>March,</hi> which for the moſt part it is 2 or 3 years before it beareth flowers, &amp; grain, &amp; ought to be ſupported when it is grown up, the branches therof dying every year in winter.</p>
+               <pb n="12" facs="tcp:31722:13"/>
+               <p>
+                  <hi>Scarlet Beans,</hi> or <hi>Scarlet Ridney-Beans</hi> are raiſed every year or ſeed being ſet in good ground where the Sun hath reflection in the Month of <hi>April,</hi> they will climb up buſhes or ſticks ſet for that pur<g ref="char:EOLhyphen"/>poſe, or being ſpread and faſtened up to a Wall, their <hi>Scarlet Flowers</hi> make a pretry ſhew, for they have more or leſs Bloſſoms growing on them for ſeveral Months.</p>
+               <p>
+                  <hi>Lupines,</hi> all the ſorts of them, are every year raiſed from the ſeed, being ſet in good mould in <hi>March</hi> or <hi>April,</hi> according as the ſeaſon happeneth to fall out, for which your own reaſon may beſt inſtruct you.</p>
+               <p>
+                  <hi>Candy-Tufts,</hi> Flower in or near the month of <hi>July,</hi> and are raiſed every year from the Seed, being ſowed in <hi>April.</hi>
+               </p>
+               <p>
+                  <hi>Apples of Love</hi> are planted, not for any Flower they bear, but or
+<pb n="13" facs="tcp:31722:13"/>the rarity of them, they are raiſed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, which ought to be ſowed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rank and fine earth in <hi>April,</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eing carefully watred afterwards <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e fruit will be ripe about <hi>Septem<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er.</hi>
+               </p>
+               <p>
+                  <hi>Stramonium</hi> or <hi>Thorn apples,</hi> are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ory year raiſed from Seed, either <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y theſe me which falleth from the fruit when they are full ripe, in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e ſame place where they grow, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r elſe the Seed may be gathered when it is black, and full ripe, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ept until <hi>March</hi> or <hi>April,</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen ſowed in good and rank Earth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Sun; but the beſt time in my pinion is to ſow it in <hi>September</hi> of <hi>October,</hi> and then it wil yield good <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eed the Summer following, this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lant is made much uſe of in Chy<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>geri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>Nigella,</hi> or <hi>Fennel Plower,</hi> doth ummonly bote or begin to Flower <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> deed <hi>June</hi> or <hi>July,</hi> and they
+<pb n="14" facs="tcp:31722:14"/>are raiſed from Seed being ſown <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>March</hi> or <hi>April;</hi> but I have ſet them grown again by the Seed th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> hath fallen from them in the ſam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> place.</p>
+               <p>
+                  <hi>Herb-mullen,</hi> all the kinds ther<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of do flower in <hi>May</hi> or <hi>June;</hi> a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> they are for the moſt part raiſed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Seed: being ſowed at the time a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> other Seeds are; they uſually bring forth Flowers the ſecond year, yet the Roots of ſome of them conti<g ref="char:EOLhyphen"/>nue two or three years, or more.</p>
+               <p>
+                  <hi>Indian-Creſſes,</hi> or yellow <hi>Lark<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>heels,</hi> flouriſh much in <hi>July,</hi> and are flowring more or leſs from the time until cold mornings come to nip them, they are raiſed of Seed which muſt be ſown in very good mould in <hi>April;</hi> and it is neceſſa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to be very cautious of having good ripe Seep, for that is a man pro<g ref="char:EOLhyphen"/>perty in raiſing any ſort of Plants o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Flower, for if the ſeed be not good
+<pb n="15" facs="tcp:31722:14"/>you may very well fail of your ex<g ref="char:EOLhyphen"/>pectation.</p>
+               <p>
+                  <hi>Larks-heels,</hi> or <hi>Larks-ſpurs,</hi> do flower about the end of <hi>June, July</hi> or <hi>Auguſt,</hi> and they are raiſed of Seeds, which may be ſown as other Seeds in <hi>March,</hi> or in the beginning of <hi>April:</hi> but the Seed that fal<g ref="char:EOLhyphen"/>leth from them will come up in the ſame place the next Spring; or if you pleaſe you may ſow ſome of the Seed as ſoon as it is ripe, deſen<g ref="char:EOLhyphen"/>ding it a little from the Froſts in Winter, and then they will be for<g ref="char:EOLhyphen"/>wardly, and bring forth good ſeed the <hi>Autumn</hi> following.</p>
+               <p>
+                  <hi>Corn-flower,</hi> or <hi>Blew bottles,</hi> there is of theſe Flowers many different colours, the moſt of which flower in <hi>June</hi> or <hi>July,</hi> the roſt in <hi>Auguſt,</hi> they are raiſed from Seed, being ſowed about <hi>September,</hi> and it will be ripe to gather again, towards the latter end of <hi>Auguſt</hi> the next year.</p>
+               <pb n="16" facs="tcp:31722:15"/>
+               <p>
+                  <hi>Fox Gloves,</hi> the moſt part of them flower in <hi>June</hi> and <hi>July,</hi> the reſt in <hi>Auguſt;</hi> they are raiſed of Seed, which ought to be ſown in good fine earth in <hi>April,</hi> and then in <hi>September,</hi> they may be removed and ſet in more handſom order they flower not until the ſecond year.</p>
+               <p>
+                  <hi>Wild</hi> and <hi>Toad flax,</hi> of all ſorts, flower in <hi>July</hi> and <hi>Auguſt,</hi> and the Seed is ripe about <hi>September,</hi> and it muſt quickly after that time be ſowed again in ſuch ground, and in ſuch a manner as other Seeds are.</p>
+               <p>
+                  <hi>Snap-dragons,</hi> flower in <hi>May, June,</hi> and <hi>July,</hi> and are raiſed from Seeds being ſowed in good &amp; fine Earth as other Seeds are, they bear Flowers the ſecond year, and the Seed is uſually ripe in <hi>Auguſt;</hi> they may alſo be raiſed by ſetting th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſlips in <hi>May</hi> or <hi>June.</hi>
+               </p>
+               <pb n="17" facs="tcp:31722:15"/>
+               <p>
+                  <hi>Colombines,</hi> Flower about the latter end of <hi>May,</hi> and are com<g ref="char:EOLhyphen"/>monly raiſed by ſowing the Seed in good and fine Earth in <hi>April,</hi> which in two years ſpace will bring forth Flowers, and then the beſt may be choſen, and removed into places convenient, where they may ſtand three or four year, and in the <hi>in<g ref="char:EOLhyphen"/>terim</hi> you ought to provide, more to ſupply their room, caſting the old away as little worth.</p>
+               <p>
+                  <hi>Double-holliocks,</hi> or <hi>Garden-mal<g ref="char:EOLhyphen"/>lows,</hi> Flower in <hi>August</hi> and <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> and they are moſt commonly raiſed by Seed, which may be ſown in <hi>April,</hi> and then they will bear Flowers the ſecond year, which in <hi>October</hi> the beſt may be made choyce of, and removed into the Flower-Garden, where they may ſtand ſome conſiderable time, for they laſt many years.</p>
+               <pb n="18" facs="tcp:31722:16"/>
+               <p>
+                  <hi>Double-Poppies,</hi> Flower for the moſt part in <hi>June,</hi> and are raiſed from the Seed, from which it bea<g ref="char:EOLhyphen"/>reth great ſtore incloſed in a head w<hi rend="sup">ch</hi> may be gatherd when full ripe, and the Seeds ſown as other Seeds are quickly after; or elſe it may be ſowed in <hi>March</hi> or <hi>April</hi> following but it will grow again for ſeveral years together by the ſame Seed that falleth down in the place where they grew, for they are very apt to proſper.</p>
+               <p>There may beſides theſe many other Flowers be raiſed from the Seed, the moſt part of which are of longer than a year, or two years continuance, as;</p>
+               <p>
+                  <pb n="19" facs="tcp:31722:16"/>
+                  <list>
+                     <item>ANemones,</item>
+                     <item>Aſphodels,</item>
+                     <item>Auricula's</item>
+                     <item>Bears-ears,</item>
+                     <item>Bell-flowers.</item>
+                     <item>Bulbous-Violets,</item>
+                     <item>Cardinals flower,</item>
+                     <item>Carnations,</item>
+                     <item>Ciſtis,</item>
+                     <item>Couſlips,</item>
+                     <item>Crocuſſes,</item>
+                     <item>Crown-Imperials,</item>
+                     <item>Cyclamen,</item>
+                     <item>Daffodils,</item>
+                     <item>Daſies, ſome few,</item>
+                     <item>Flower-de-luces,</item>
+                     <item>Flowers of <hi>Briſtol,</hi>
+                     </item>
+                     <item>Flowers of the Sun,</item>
+                     <item>Fraxinolla's,</item>
+                     <item>Fritillaries,</item>
+                     <item>Gilliflowers.</item>
+                     <item>Helebores,</item>
+                     <item>Hepatica,</item>
+                     <item>Honry Suckles,</item>
+                     <item>Jacinths,</item>
+                     <item>Lady-Smocks,</item>
+                     <item>Liver wort,</item>
+                     <item>Lychnis Caleedonica,</item>
+                     <item>Meddow-Saffron,</item>
+                     <item>Meddow-Sweet,</item>
+                     <item>Mizerious,</item>
+                     <item>Moly,</item>
+                     <item>Narciſſus,</item>
+                     <item>Night ſhads,</item>
+                     <item>Oxlips,</item>
+                     <item>Paonies,</item>
+                     <item>Pinks,</item>
+                     <item>Primeroſes,</item>
+                     <item>Roſemary of Spaniſh-ſeed,</item>
+                     <item>Saffron,</item>
+                     <item>Sow-bread,</item>
+                     <item>Spaniſh-broom,</item>
+                     <item>Star-flowers,</item>
+                     <item>Strawberry-tree,</item>
+                     <item>Sun-flowers,</item>
+                     <item>Sweet-Williams,</item>
+                     <item>Sweet-Johns,</item>
+                     <item>Tree Night ſhade,</item>
+                     <item>Tulips,</item>
+                     <item>Winter Cherries, <hi>&amp;c.</hi>
+                     </item>
+                  </list>
+               </p>
+               <pb n="20" facs="tcp:31722:17"/>
+               <p>ALl theſe Flowers or Plants, may poſſibly be raiſed from Seed, but becauſe the moſt part of them are more properly and better raiſed, either from off-ſets, Layers, Slips, Cuttings, <hi>&amp;c.</hi> we will in treating theteof, mention them particularly, as they are beſt raiſed and increaſed.</p>
+               <p>
+                  <hi>Anemones,</hi> or <hi>Emanies,</hi> as ſome call them, Flower in <hi>March, April,</hi> and <hi>May,</hi> accordingly as the ſea<g ref="char:EOLhyphen"/>ſon of the year happeneth to be more hot or cold, and as the Roots were ſooner or later ſet the choyceſt of theſe <hi>Anemones</hi> muſt be ſet in very good ſifted mould in ſome place that is not too much in the Sun, in the month of <hi>Septem<g ref="char:EOLhyphen"/>ber;</hi> all thoſe which have broad leaves may be ſet three Fingers deep.</p>
+               <pb n="21" facs="tcp:31722:17"/>
+               <p>
+                  <hi>Anemones</hi> with narrow leaves, flower about the ſame time as the other do, <hi>i. e.</hi> in <hi>March, April,</hi> or <hi>May,</hi> they muſt be planted in very good Earth as the former were in the month <hi>Octob.</hi> which is a month latter than the other; and if you deſire to have ſome Flower very late, then keep of the worſer ſort out of the ground until <hi>February,</hi> and then plant them in ſome good Earth in ſhady place: ſome do put Willow Earth to each Root, the Root having been ſteeped ſome time before in warm water.</p>
+               <p>If the <hi>Anemones</hi> of all ſorts like their Ground and proſper well; that is, having good Flowers, and large Stalks, they may then ſtand the longer e're they be taken up, as till <hi>June</hi> or <hi>July;</hi> but if they ſeem but weakly Plants take them up ſooner; however, when the leaves become yellow and withered, it
+<pb n="22" facs="tcp:31722:18"/>is time to take them up, in which operation great care muſt be taken that you break them not, for if you do, they proſper not ſo well when they are ſet again.</p>
+               <p>They may be kept in Sand a months time after they are taken up, and then put them in Papers, writing the names thereon, and ſo keep them in a dry and cool place until you ſet them again, great variety of theſe Flowers are raiſed from Seed: which Seed ought to be choſen from the beſt and ſtrong<g ref="char:EOLhyphen"/>eſt Flowers, which is in or near unto <hi>May;</hi> this Seed muſt be ga<g ref="char:EOLhyphen"/>thered ſtill as the Down riſeth, or elſe it is loſt by the wind, it may be ſeparated from the Down by rubbing it in dry Sand; this Seed may be ſowed from the middle to the latter end of <hi>August,</hi> in rich and very fine Earth very thick, either in Beds or in Boxes half a Finger
+<pb n="23" facs="tcp:31722:18"/>depth, and when they appear above ground, you may then ſift a little more light Earth on them, water<g ref="char:EOLhyphen"/>ing them a little at the firſt ſowing; and in winter to defend them from the cold, you muſt cover them with Straw Mats, <hi>&amp;c.</hi> born hollow that it touch them not, and in <hi>Auguſt</hi> following they may be taken up and planted again in order, where they may remain until they Flower, which will be in three or four years at the furtheſt, and then you may diſpoſe them in your Gardens as you ſee good.</p>
+               <p>
+                  <hi>Aſpodils,</hi> the moſt part of them Flower in <hi>May</hi> and <hi>June,</hi> they are increaſed by taking them up once in two or three years, and parting the Root when the Stalk is dry, and then quickly planting them order<g ref="char:EOLhyphen"/>ly again.</p>
+               <p>
+                  <hi>Lilly-Aſpodils,</hi> and <hi>Spider-worts,</hi> Flower in <hi>May</hi> and <hi>June,</hi> they are
+<pb n="24" facs="tcp:31722:19"/>increaſed by taking them up once in two or three years, and parting the Roots; they will grow in an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> indifferent ground: <hi>Auguſt</hi> is th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beſt time to tranſplant them.</p>
+               <p>
+                  <hi>Auriculd's,</hi> or <hi>Bears ears,</hi> flow<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in <hi>April</hi> or <hi>May,</hi> and it may poſ<g ref="char:EOLhyphen"/>ſible ſo fall that ſome of them ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> flower again about <hi>Auguſt,</hi> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> muſt be planted in rich Soil: the are increaſed by taking them up to wards the latter end of <hi>Auguſt,</hi> and parting the Roots, planting the preſently again in very good &amp; fin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſifted Earth, or Earth of Willow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in a place that is ſome what ſhade<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and at a pretty good diſtance from each other, that they have roo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to ſpread; once in two years the may be taken up, that ſo the Ground wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re they grew may <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> amended; var<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ete of theſe Flow<g ref="char:EOLhyphen"/>ers are raiſed from Seed with muc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> trouble.</p>
+               <p>
+                  <pb n="25" facs="tcp:31722:19"/>Bears-Ears, <hi>ſee</hi> Auricula</p>
+               <p>
+                  <hi>Bell</hi> Flower or <hi>Sateririous,</hi> Flow<g ref="char:EOLhyphen"/>er about the middle of <hi>May,</hi> ma<g ref="char:EOLhyphen"/>ny of them grow wild, and may be digged up and planted in Gar<g ref="char:EOLhyphen"/>dens in <hi>Iune</hi> or <hi>Iuly,</hi> in a ſhady and barren place (not in fat Earth) wa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ering them a little; they are in<g ref="char:EOLhyphen"/>creaſed by parting the Roots; or by the ſeed ſowed ſoon after it is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ipe.</p>
+               <p>
+                  <hi>Bulbous Violets</hi> flower from <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> until <hi>May,</hi> being increaſed by of-ſets, and may be taken up and kept until <hi>Auguſt</hi> or <hi>September</hi> before you ſet them again.</p>
+               <p>
+                  <hi>Catdinals flower</hi> is but a tender plant, they flower from the begin<g ref="char:EOLhyphen"/>ning of <hi>Iune</hi> till <hi>Auguſt,</hi> and may be increaſed by parting the roots a<g ref="char:EOLhyphen"/>bout <hi>September,</hi> being ſet in very good earth, and carefully defended <gap reason="missing" extent="1 page">
+                     <desc>〈1 page missing〉</desc>
+                  </gap>
+                  <pb n="26" facs="tcp:31722:20"/>the nipping cold of the Winter, or elſe it will not indure long with us.</p>
+               <p>
+                  <hi>Carnations</hi> or <hi>Gilliflowers,</hi> red and white, ſcarlet and white, pur<g ref="char:EOLhyphen"/>ple and white, of each of theſe there is many and great varieties, they flower in <hi>Iuly</hi> and <hi>Auguſt,</hi> and are increaſed by layers, or raiſed from ſeed, it being preſerved from the ſtrongeſt of them, and care<g ref="char:EOLhyphen"/>fully looked unto in Autumn, or elſe will be loſt with the wind.</p>
+               <p>In the moneth of <hi>April</hi> theſe ſeeds may be ſowen very thin after rain, on a Bed of good freſh Earth; and if the time prove dry after<g ref="char:EOLhyphen"/>wards, then water them a little, and when they are pretty well grown up, chuſe a wet time if you can to remove them, and ſo plant them again in rows where they may ſtand in the Eaſt Sun; and it may be the next year they may bea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Flowers, and then you will per<g ref="char:EOLhyphen"/>ceive
+<pb n="27" facs="tcp:31722:20"/>which are double to be e<g ref="char:EOLhyphen"/>ſteemed, and which are ſingle to be rejected and caſt away. And if you place them in pots, then freſh Earth is to be choſen; and obſerve as well in watering theſe, as moſt other Flowers or Plants that re<g ref="char:EOLhyphen"/>quire it, to water them in the mor<g ref="char:EOLhyphen"/>ning until the latter end of <hi>April,</hi> or thereabouts, whilſt the wea<g ref="char:EOLhyphen"/>ther is indifferently cool, and after<g ref="char:EOLhyphen"/>wards when the weather is hot, it is beſt to water them in the Even<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g; and if you ſuſpect that your <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ots receive too much wet by rain, then lay them down upon one ſide to prevent it.</p>
+               <p>
+                  <hi>Ciſtus,</hi> they Flower in <hi>Iune</hi> or <hi>Iuly,</hi> and are raiſed from ſeed being <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owed in very good rich Earth, to<g ref="char:EOLhyphen"/>wards the latter end of <hi>Feb.</hi> or they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e increaſed by new Plants taken <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m the old Tree, and planted in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od Earth, and carefully looked
+<pb n="28" facs="tcp:31722:21"/>unto; the ſeed is uſually ready to be gathered in <hi>Auguſt,</hi> or begin<g ref="char:EOLhyphen"/>ning of <hi>September,</hi> which muſt be diligently looked to or elſe is apt to be all loſt.</p>
+               <p>
+                  <hi>Cowſlips</hi> and <hi>Oxlips,</hi> flower from <hi>March</hi> until <hi>May,</hi> and ſome of them continue long in Flower, and they are increaſed by parting the Roots as Primroſes are, yet they may alſo be raiſed by ſeed, if that which be good be choſen and ſow<g ref="char:EOLhyphen"/>ed in very good Earth in <hi>Septem<g ref="char:EOLhyphen"/>ber;</hi> then the effects thereof ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be ſeen the Spring following.</p>
+               <p>
+                  <hi>Crocuſſes,</hi> of which there is man ſorts; thoſe of the Spring flowe in <hi>February</hi> and <hi>March,</hi> and a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> increaſed rather by the Root the by ſeed; they are very apt to gro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> although it be but ordina<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ground, and they may be taken <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> when the leaves are withered a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> kept dry until <hi>October,</hi> and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> planted again.</p>
+               <pb n="29" facs="tcp:31722:21"/>
+               <p>
+                  <hi>Crocuſſes</hi> Autumnal, or <hi>Crocuſ<g ref="char:EOLhyphen"/>ſes</hi> that flower in <hi>September</hi> or <hi>October,</hi> are moſt properly increa<g ref="char:EOLhyphen"/>ſed by the Roots which are very apt to grow and increaſe, and when the Fibres are withered they may then be taken up and kept dry un<g ref="char:EOLhyphen"/>til about <hi>Auguſt,</hi> and then planted again. And if they ſtand more then one year they increaſe very much the more.</p>
+               <p>Theſe Flowers may be raiſed of ſeed if it be choſen ripe and good, and ſowed in very fine Earth, and once in two years removed in or about <hi>July,</hi> and ſet in good or<g ref="char:EOLhyphen"/>der, provided the ground be very right and good, ſo that they may there remain until they bear Flow<g ref="char:EOLhyphen"/>ers.</p>
+               <p>
+                  <hi>Crown Imperial,</hi> flowereth in <hi>March</hi> or <hi>April,</hi> and are increaſed by the off-ſets, that you may have from the greater Roots being taken
+<pb n="30" facs="tcp:31722:22"/>up in <hi>June,</hi> when the ſtalks are dry, and planted again in <hi>August.</hi>
+               </p>
+               <p>
+                  <hi>Cyclamen</hi> or <hi>Sow bread</hi> (the Herb ſo called) that which is called the ſpring <hi>Cyclamen</hi> flowereth in <hi>April</hi> or <hi>May,</hi> the Summer ſoyl: <hi>Cycla<g ref="char:EOLhyphen"/>men</hi> flowereth in <hi>June</hi> or <hi>July,</hi> and the Autumn <hi>Cyclamen</hi> flowereth in <hi>August</hi> and <hi>September;</hi> They are not often moved, but the beſt time to tranſplant them is in <hi>June</hi> and <hi>July;</hi> they are raiſed by ſow<g ref="char:EOLhyphen"/>ing the ſeeds ſoon after they are ripe, in light and good Earth, co<g ref="char:EOLhyphen"/>vering them from the Froſt the firſt Winter, and when they are two years old they may be tranſ<g ref="char:EOLhyphen"/>planted.</p>
+               <p>There is ſeveral ſorts of <hi>Daffodils,</hi> thoſe that bear only one Flower ought to be taken up every other year in <hi>June</hi> or <hi>July,</hi> keeping only the principal Roots dry until <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> and then ſet them again,
+<pb n="31" facs="tcp:31722:22"/>they flower in <hi>March</hi> and <hi>April.</hi>
+               </p>
+               <p>
+                  <hi>Ruſh Daffodils</hi> flower in <hi>April</hi>
+               </p>
+               <p>
+                  <hi>Baſtard Daffodils</hi> flower in <hi>March,</hi> and if any will ſow the ſeed of <hi>Daffodils</hi> let them ſow it in <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> and let it remain three or four years, and then in <hi>June</hi> take up the young Plants and plant them preſently in rows in good Earth.</p>
+               <p>The ſeed of the <hi>Sea Daffodils</hi> be<g ref="char:EOLhyphen"/>ing ſown may ſtand ten years unre<g ref="char:EOLhyphen"/>moved.</p>
+               <p>
+                  <hi>Daffodils</hi> that have ſeveral Flow<g ref="char:EOLhyphen"/>ers on one Stalk, do flower in <hi>A<g ref="char:EOLhyphen"/>pril</hi> and <hi>May,</hi> and are for the moſt part increaſed by off-ſets, nor are they to be often taken up becauſe they endure well the cold.</p>
+               <p>
+                  <hi>Daſies</hi> flower in <hi>April,</hi> and are increaſed by parting the Root, and ſetting them abroad where they may not be too much in the Sun either Spring or Fall; and being
+<pb n="32" facs="tcp:31722:23"/>watred a little they ſeldom fail growing.</p>
+               <p>
+                  <hi>Flower de-luces</hi> flower one kind or other of them from <hi>April</hi> until <hi>July,</hi> before they have all done, and as ſoon as the leaves are dryed down they may be taken up and kept dry until <hi>Auguſt</hi> or at the fur<g ref="char:EOLhyphen"/>theſt <hi>September,</hi> and then order them in all reſpects as Tulips are, but there is ſome of theſe which may remain in the ground with<g ref="char:EOLhyphen"/>out removing ſeveral years, they may alſo be raiſed by the ſeed.</p>
+               <p>
+                  <hi>Flag-flower-deluces,</hi> flower in and near the moneth of <hi>May,</hi> and may remain ſeveral years in the ground, but the beſt time to tranſ<g ref="char:EOLhyphen"/>plant them is in or neer <hi>September</hi> and are increaſed by parting the Roots.</p>
+               <p>
+                  <hi>Dwarf flower-deluces,</hi> do com<g ref="char:EOLhyphen"/>monly Flower in <hi>April, May</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Iune,</hi> accordingly as the ſeaſon
+<pb n="33" facs="tcp:31722:23"/>ground, and place where they are planted happeneth to be, (which alſo cauſeth much difference in the late or early flowering of other Flowers) they increaſe by parting the Roots, and they will grow al<g ref="char:EOLhyphen"/>moſt in any ground, and may be re<g ref="char:EOLhyphen"/>moved and planted in <hi>September.</hi>
+               </p>
+               <p>Flower of <hi>Briſtol, Champion</hi> or <hi>Non-ſuch,</hi> do flower from <hi>Iune</hi> or <hi>Iuly,</hi> and ſo they remain flowering more or leſs of them until <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> the <hi>Champions</hi> are increaſed by taking ſlips from the old Root, and planting them in <hi>Auguſt</hi> or <hi>September,</hi> which you muſt do eve<g ref="char:EOLhyphen"/>ry year, <hi>Non-ſuch</hi> are increaſed by taking the young Plants which come up in <hi>March</hi> from the old Root, and planting them in ground that is not too hot or rank.</p>
+               <p>Flowers of the <hi>Sun,</hi> do com<g ref="char:EOLhyphen"/>monly flower about <hi>Auguſt</hi> or <hi>Sep<g ref="char:EOLhyphen"/>tember;</hi> and are yearly raiſed of
+<pb n="34" facs="tcp:31722:24"/>ſeed ſown in good rank mould where they may have the benefit of the Sun in <hi>April,</hi> and the ſeed is ripe in Autumn; this ſhould have been mentioned before but that it was forgotten.</p>
+               <p>
+                  <hi>Fraxinella</hi>'s flower in <hi>June</hi> and <hi>Iuly,</hi> and is increaſed by taking of new Plants from the old Roots in <hi>March,</hi> which will indure long without moving; the ſeed is ripe in <hi>Auguſt,</hi> and muſt be very dili<g ref="char:EOLhyphen"/>gently and timely looked for, or elſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t will be loſt, theſe may alſo be raiſed from the ſeed ſown in <hi>Fe<g ref="char:EOLhyphen"/>bruary</hi> in very good Earth.</p>
+               <p>
+                  <hi>Fritillaries,</hi> Flower from the lat<g ref="char:EOLhyphen"/>ler end of <hi>March</hi> until <hi>May,</hi> and are increaſed by the Root which muſt be taken up in <hi>Iuly</hi> and plant<g ref="char:EOLhyphen"/>ed again in <hi>Auguſt,</hi> they are alſo raiſed from ſeed.</p>
+               <p>
+                  <hi>Galliflowers,</hi> either <hi>Wall-flower</hi> or Winter <hi>Gilliflowers</hi> do flower in
+<pb n="35" facs="tcp:31722:24"/>
+                  <hi>March, April</hi> and <hi>May,</hi> and they are increaſed by ſlips being ſet in <hi>March,</hi> on a Bank under ſome South wall to defend them from cold in Winter.</p>
+               <p>
+                  <hi>Stock Gilliflowers</hi> do uſually Flo<g ref="char:EOLhyphen"/>wer in <hi>April,</hi> and ſome of them continue part of the Summer: they are for the moſt part raiſed from ſeed, it being ſowed in <hi>April</hi> which is the beſt time, it muſt be ſowed on a Bed of good and fine Earth very thin, and when they are grown up a Fingers length or more, then in the moſt rainy time you can meet with remove them, and preſently plant them again on the ſame Bed or of ſome other at a reaſonable diſtance; and when they have remained ſo planted a while longer, then take them up <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſecond time, and plant them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rderly abroad, ſo that they may be well rooted before cold wea<g ref="char:EOLhyphen"/>ther
+<pb n="36" facs="tcp:31722:25"/>that they may the better in<g ref="char:EOLhyphen"/>dure the Winter, there are ſome<g ref="char:EOLhyphen"/>times double ones happen of thoſe which are ſowed: but the moſt part of them which are double are raiſed from ſlips taken from old Plants which are double, which muſt be ſhaded and watred for a time after they are planted.</p>
+               <p>
+                  <hi>Queens Gilliflowers</hi> or <hi>cloſe-Si<g ref="char:EOLhyphen"/>lences,</hi> as ſome call them, are in flower in <hi>May, Iune</hi> and <hi>Iuly;</hi> they are raiſed from the ſlips or bran<g ref="char:EOLhyphen"/>ches thereof, they ought to be ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in places that are ſomewhat ſhady and muſt be watred after they a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> planted, they are alſo raiſed from ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed.</p>
+               <p>
+                  <hi>Helebores,</hi> the black flowere<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at <hi>Chriſtmas,</hi> all others for th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt part flower in <hi>May</hi> and <hi>Iune</hi> they are raiſed from ſeed, and in<g ref="char:EOLhyphen"/>dure long in the ground witho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> removing; and moſt of them a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> eaſily made to grow.</p>
+               <pb n="37" facs="tcp:31722:25"/>
+               <p>
+                  <hi>Hepatica</hi> or <hi>Liver-worts</hi> flower in <hi>March,</hi> they are increaſed by parting the Roots, or by ſowing the ſeed in Willow-earth, and after planting them forth in good and rank ground.</p>
+               <p>
+                  <hi>Honey-Suckles,</hi> (the Herb ſo cal<g ref="char:EOLhyphen"/>led) flowereth in <hi>May</hi> and <hi>Iune,</hi> and is raiſed from the ſeed, being ſowed in any indifferent ground in <hi>February</hi> or <hi>March,</hi> &amp;c.</p>
+               <p>
+                  <hi>Iacinths,</hi> flower from <hi>April</hi> un<g ref="char:EOLhyphen"/>til <hi>Auguſt</hi> if we conſider all the kinds, and are increaſed by off-ſets, being taken up and replanted in <hi>Auguſt;</hi> they ought not to be kept long above ground.</p>
+               <p>
+                  <hi>Lady Smocks double,</hi> flower in <hi>April</hi> for the moſt part, and are in<g ref="char:EOLhyphen"/>creaſed by parting the Roots ei<g ref="char:EOLhyphen"/>ther early in the Spring or elſe in Autumn, and planting them in ground that is naturally not over dry.</p>
+               <pb n="38" facs="tcp:31722:26"/>
+               <p>Liver-wort, <hi>ſee</hi> Hepatica. Lychnis Calcedonica, <hi>ſee Flow<g ref="char:EOLhyphen"/>ers of</hi> Briſtol.</p>
+               <p>
+                  <hi>Meddow Saffron,</hi> flowereth in <hi>September</hi> and <hi>October;</hi> they are in<g ref="char:EOLhyphen"/>creaſed by the Root being apt to grow, and muſt be taken up when the leaves are dry; and ſo kept forth of the ground dry until the latter end of <hi>August</hi> or <hi>September,</hi> and being then planted or ſet they quickly flower.</p>
+               <p>
+                  <hi>Meddow ſweet,</hi> one ſort thereof may very fitly be here mentioned for the pretty Flower and Button it beareth: it is in its prime in <hi>May</hi> and <hi>Iune,</hi> it may be raiſed of ſeed ſown in Autumn, in good Earth not too full of Dung but pre<g ref="char:EOLhyphen"/>ty moiſt, and then the roots will indure ſome years.</p>
+               <pb n="39" facs="tcp:31722:26"/>
+               <p>
+                  <hi>Mizerions,</hi> ſome or other of them flower from <hi>Ianuary</hi> unto <hi>April,</hi> they are increaſed by ſeed, or ſowing the Berries in <hi>Iuly,</hi> in good Earth, and the ſecond Spring they will come up, and in a year or two after they may be removed and placed elſewhere as is found moſt convenient.</p>
+               <p>
+                  <hi>Molys,</hi> the moſt part of them Flower in <hi>May</hi> and <hi>Iune,</hi> they are increaſed by the Roots, which may be taken up when the Stalks are dry; and the principal Roots only planted again, but they need not be removed often: it may alſo be raiſed of ſeed.</p>
+               <p>Narriſſes, <hi>ſee</hi> Daffodils.</p>
+               <p>
+                  <hi>Night-ſhade,</hi> Flowereth towards the latter end of <hi>May</hi> or in the be<g ref="char:EOLhyphen"/>ginning of <hi>Iune,</hi> and is increaſed by Layers, or elſe by ſowing the
+<pb n="40" facs="tcp:31722:27"/>ſeeds in a Box of very good Earth in <hi>March,</hi> ſo that they muſt be houſed in Winter.</p>
+               <p>Oxlips, <hi>ſee</hi> Couſlips.</p>
+               <p>
+                  <hi>Paeones</hi> Flower in <hi>May,</hi> they are in<g ref="char:EOLhyphen"/>creaſed by taking them up in <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> or <hi>September,</hi> and parting the Root and planting them again, they will grow in ordinary ground, and will indure ſeven years or more without removing: they may be raiſed from ſeed, but it is very long before they come to Flower.</p>
+               <p>
+                  <hi>Pinks</hi> Flower in <hi>Iune,</hi> and are in<g ref="char:EOLhyphen"/>creaſed by parting the Roots and Branches, or by ſowing the ſeed; at the time, and after the ſame manner as other ſeeds are ſown.</p>
+               <p>
+                  <hi>Primroſes</hi> both yellow and red, which are moſt of all eſtemed and planted in Gardens, do Flower in or near the moneth of <hi>April,</hi> and
+<pb n="41" facs="tcp:31722:27"/>ſome of them continue flowering all the year, they are increaſed by parting the Roots about <hi>October</hi> or <hi>November.</hi>
+               </p>
+               <p>
+                  <hi>Roſemaries,</hi> the ſeveral ſorts Flower in <hi>May,</hi> and are increaſed by ſlips, which may be ſet in <hi>March</hi> or <hi>Auguſt,</hi> and I ſuppoſe it may be raiſed from ſeed brought from beyond Sea, for I remember that <hi>Roſemary</hi> ſeed brought from <hi>Spain,</hi> into the <hi>Weſt-Indies,</hi> did proſper very well.</p>
+               <p>
+                  <hi>Saffron flowers,</hi> ſee <hi>Crocus,</hi> but baſtard <hi>Saffron</hi> is yearly raiſed from ſeed, which ſeed may be had at the Flowriſts in <hi>London.</hi>
+               </p>
+               <p>Sow bread, ſee Cyclamen.</p>
+               <p>
+                  <hi>Spaniſh-Broom</hi> flowereth in <hi>May,</hi> and is increaſed by Suckers or Lay<g ref="char:EOLhyphen"/>ers, or elſe it may be raiſed by ſowing the ſeed aſſoon as it is ripe,
+<pb n="42" facs="tcp:31722:28"/>and it will indure being ſet againſt a South-wall many years.</p>
+               <p>
+                  <hi>Star-flowers,</hi> do moſt common<g ref="char:EOLhyphen"/>ly Flower in ſeveral moneths, ac<g ref="char:EOLhyphen"/>cording to their kinds: as in <hi>A<g ref="char:EOLhyphen"/>pril, May, Iune,</hi> and ſome in <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> and are increaſed by the Roots, and are taken up when the Roots are indifferently dry, and may be planted again in <hi>September.</hi>
+               </p>
+               <p>
+                  <hi>Strawberry-Tree,</hi> the Flowers of this Tree are not ſo beautiful as the Berries, which are ripe about <hi>October</hi> or <hi>November,</hi> and there<g ref="char:EOLhyphen"/>fore is then in its greateſt Splen<g ref="char:EOLhyphen"/>dour, it may be raiſed from ſeed or elſe by Layers, which having once taken Root by a South-wall, will indure ſome years very well.</p>
+               <p>
+                  <hi>Sun-flowers</hi> grow very tall, and do for the moſt part Flower in <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> and are yearly raiſed from ſeed, ſown or ſet in <hi>March</hi> or <hi>April</hi> under a warm Wall.</p>
+               <pb n="43" facs="tcp:31722:28"/>
+               <p>
+                  <hi>Sweet-Iohns</hi> Flower moſt of them in or near <hi>Iune,</hi> and are increaſed by planting the ſlips abroad, in ſome moiſt time in the Spring, and then they will take Root and abide the Winter: there may be variety raiſed from the ſeed.</p>
+               <p>
+                  <hi>Sweet Williams</hi> and <hi>London-pride</hi> Flower at the ſame time, and are ordered as <hi>Sweet-Iohns</hi> are.</p>
+               <p>Tre-night ſhade, <hi>ſee</hi> Night-ſhade.</p>
+               <p>
+                  <hi>Tulips,</hi> of which in general there is three ſorts, <hi>viz. Praecoces, Medias, Serotinas,</hi> early, middle and late flowering <hi>Tulips.</hi>
+               </p>
+               <p n="1">1. <hi>Praecoces,</hi> firſt of all Flower in <hi>March</hi> &amp; <hi>April,</hi> and are increaſed from the Roots, by off ſets they are to be taken up about the latter end of <hi>Iune,</hi> and ſo kept dry until <hi>September</hi> or <hi>October,</hi> and then ſet<g ref="char:EOLhyphen"/>orderly again.</p>
+               <pb n="44" facs="tcp:31722:29"/>
+               <p n="2">2. <hi>Medias</hi> do Flower in <hi>April</hi> and <hi>May,</hi> and are increaſed by off-ſets, and may be taken up about the beginning of <hi>Iuly,</hi> and kept dry until the middle or latter end of <hi>September,</hi> and then planted a<g ref="char:EOLhyphen"/>again.</p>
+               <p>
+                  <hi>Serotinas</hi> flower in <hi>May</hi> and ſometimes in <hi>Iune,</hi> and are alſo increaſed by off-ſets, and they muſt be taken and kept dry until <hi>Septem<g ref="char:EOLhyphen"/>ber</hi> or <hi>October,</hi> and then ordered and planted in all reſpects as the former.</p>
+               <p>In taking them up, if the ground be ſo ſtiff as to uſe a Trowel, you muſt have a care of ſpoiling them, but if the mould be ſo light and hollow that you can take them up with only your fingers, there is no danger.</p>
+               <p>And as you take them up, lay them on papers whereon the name of each ſort is written; the Earth
+<pb n="45" facs="tcp:31722:29"/>being taken clean off them, then lay them on a broad Floor to dry, and when they are dry take off the off-ſets, which may be put into a Box or paper-Bag, with the name of each ſort written on them; and in <hi>Auguſt</hi> plant all theſe off-ſets.</p>
+               <p>All the other beſt Roots may be wrapped in dry papers and put in a Box, or Boxes until you plant them in <hi>September,</hi> or rather if the ground be hot in <hi>October,</hi> but in the interim you muſt look to them that they corrupt not by moiſture, for if they do they will then become ſoft as you may feel, and then they are little worth.</p>
+               <p>When you plant them again let them be ſet in ſifted Earth; in handſome Beds every ſort by them<g ref="char:EOLhyphen"/>ſelves in rows, noting every row or bed of every ſort, with figures on a piece of Lead, referring to ſuch a place in your Book, or elſe
+<pb n="46" facs="tcp:31722:30"/>note them by papers only that thereby you may know every kind, and how to diſpoſe them when they are taken up again.</p>
+               <p>The moſt ordinary ſort of theſe Flowers, if the Earth be good may remain two years in the ground if you pleaſe, before you take them up.</p>
+               <p>It is a good way for thoſe that have choice <hi>Tulips</hi> to arch the Beds over with Sticks or Coopers Hoops, when they are budded and almoſt ready to Flower, that ſo they may be covered in the night to defend them from Froſt, Hall, great Rains and high Winds, and alſo from extream heat, eſpecial<g ref="char:EOLhyphen"/>ly when they are fully blown, for then a little Sun is enough for them; and ſo ordered they laſt in Splendour the longer,</p>
+               <p>When the leaves are fain, break off the Heads, unleſs it
+<pb n="47" facs="tcp:31722:30"/>be of thoſe you intend to reſerve for ſeed.</p>
+               <p>Some increaſe <hi>Tulips</hi> by ſowing the ſeed, by the which there ſome<g ref="char:EOLhyphen"/>times happeneth many new varie<g ref="char:EOLhyphen"/>ties: but ſee that your ſeed be very good and full ripe; The ſeed may be gathered about the middle or latter end of <hi>Iuly,</hi> and after they are gathered you may let them remain hanged up in the boles un<g ref="char:EOLhyphen"/>til the latter end of <hi>September</hi> or <hi>October,</hi> and then ſow it in very good Earth: the ordinary ſort in Beds not very thick or very deep; but the beſt way to ſow the choice<g ref="char:EOLhyphen"/>eſt ſeed is it Boxes, and in the beſt ſifted Earth you can get, the time is in <hi>March</hi> or <hi>April</hi> that they will begin to appear, and then a<g ref="char:EOLhyphen"/>bout <hi>Iune</hi> when they are two years old you may take them up and ſet them again, preſently in rows, but it will be ſix or ſeven years before
+<pb n="48" facs="tcp:31722:31"/>they come to be ſtrong and beat Flowers well.</p>
+               <p>Obſerve to plant your off-ſets firſt into the leaneſt of your ground, and then afterwards re<g ref="char:EOLhyphen"/>move them into better, and ſo art they more apt to proſper well.</p>
+               <p>
+                  <hi>Winter Cherries</hi> may be raiſed from ſeed, being ſowed in its moſt natural time, that is, when the ſeed is full ripe, which is obſer<g ref="char:EOLhyphen"/>ved the beſt time to ſow or ſet all ſuch ſeed that will indure the Winter, and indeed ſome ſeeds falling to the ground of their own accord grow again, whereas being kept until Spring with all the in<g ref="char:EOLhyphen"/>duſtry that can be uſed will no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> grow.</p>
+               <p>Now all theſe laſt mentione<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Flowers or Plants may poſſibly be raiſed from ſeed, but we have particularly ſet down how each o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them are beſt increaſed, either by ſeeds, off-ſets, ſlips, <hi>&amp;c.</hi>
+               </p>
+               <pb n="49" facs="tcp:31722:31"/>
+               <p>Many ſeeds muſt be gathered a little before they are full ripe, which may be kept in the Boles or Heads wherein they grew, and laid a little afterwards in the Sun they will come to a ſufficient ma<g ref="char:EOLhyphen"/>turity, which ſhould they be let grow until they are full ripe in the open Air, you run a great danger of looſing all by wind and wea<g ref="char:EOLhyphen"/>ther.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Of ſome Flowers, Flower bearing Trees and Shrubs, as are raiſed and increaſed from Layers, neceſſary for a Flower-Garden, as,</hi>
+                  <list>
+                     <item>CArnations of all ſorts.</item>
+                     <item>Gilliflowers.</item>
+                     <item>Hypericum frutex.</item>
+                     <item>Jaſmines,</item>
+                     <item>Pinks,</item>
+                     <item>Roſes,</item>
+                     <item>Shrub night-ſhade,</item>
+                     <item>Shrub mallows.</item>
+                     <item>Shrub-Spiraea.</item>
+                     <item>Spiraea frutex.</item>
+                     <item>Virginian bower.</item>
+                     <item>Woody <hi>St</hi> Johnswort</item>
+                     <item>Woodbines, <hi>&amp;c.</hi>
+                     </item>
+                  </list>
+               </head>
+               <pb n="50" facs="tcp:31722:32"/>
+               <p>OF ſuch which are not before treated of I will mention as followeth in order.</p>
+               <p>
+                  <hi>Hypericum frutex</hi> or <hi>Woody</hi> St. <hi>Johnswort,</hi> flowereth in <hi>April,</hi> and is increaſed by Layers.</p>
+               <p>
+                  <hi>Jaſmies</hi> Flower in <hi>July</hi> and <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> and are increaſed by Layers.</p>
+               <p>
+                  <hi>Roſes</hi> or <hi>Roſe-Trees</hi> all the many ſorts of them flower in <hi>Iune</hi> and <hi>Iuly,</hi> and are increaſed by Layers; they ought to be cut with the Sheers after they have done bea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing; theſe may alſo be increaſed by Suckers or Inoculation.</p>
+               <p>
+                  <hi>Shrub night-ſhade,</hi> flowereth in <hi>May</hi> or <hi>Iune,</hi> and is increaſed by Layers.</p>
+               <p>
+                  <hi>Shrub mallows,</hi> Flower for the moſt part in <hi>Auguſt</hi> or <hi>September,</hi> and are increaſed from Layers.</p>
+               <p>
+                  <hi>Shrub Spiraea</hi> flowereth in <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> and is alſo increaſed by Lay<g ref="char:EOLhyphen"/>ers,
+<pb n="51" facs="tcp:31722:32"/>
+                  <hi>Spiraea frutex</hi> is the ſame. <hi>Virgins bower,</hi> flowereth in <hi>Iuly</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Auguſt,</hi> and is increaſed by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yers; they are very fit to cover <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rbours.</p>
+               <p>
+                  <hi>Woodbine,</hi> that which is double <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wereth in <hi>May,</hi> and are eaſily <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſed by Layers, being very <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to take Root, theſe are fit to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er Harbours, and to be plant<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Summer-houſes, or by Gar<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>-houſes, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Woodbine,</hi> which is of a more <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lſh colour flowereth in <hi>Iune</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aly, and is eaſily increaſed by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers, and is fit for ſuch uſes as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Woodbines</hi> are.</p>
+            </div>
+            <div type="part">
+               <pb n="52" facs="tcp:31722:33"/>
+               <head>
+                  <hi>Of ſuch Flowers as are raiſed, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> increaſed by off-ſets:</hi>
+                  <list>
+                     <item>AConitum,</item>
+                     <item>Animones,</item>
+                     <item>Aſphodels,</item>
+                     <item>Auriculas, or Bears-Bars.</item>
+                     <item>Bulbous Violets,</item>
+                     <item>Campanila,</item>
+                     <item>Cornflag,</item>
+                     <item>Crocuſſes,</item>
+                     <item>Crown imperial,</item>
+                     <item>Daffodils,</item>
+                     <item>Flower-de-luces,</item>
+                     <item>Fritillares,</item>
+                     <item>Gentian,</item>
+                     <item>Gentianella's,</item>
+                     <item>Iacinths,</item>
+                     <item>Lillies,</item>
+                     <item>Lilly-Aſpodils,</item>
+                     <item>Mortagous,</item>
+                     <item>Medias,</item>
+                     <item>Meddow-Saffron,</item>
+                     <item>Moly,</item>
+                     <item>Oxlips,</item>
+                     <item>Peontes,</item>
+                     <item>Perſian Lillies</item>
+                     <item>Primroſes,</item>
+                     <item>Ranunculuſſes,</item>
+                     <item>Star-flower.</item>
+                     <item>Spider-wort,</item>
+                     <item>Tulips of all ſorts</item>
+                     <item>Wolf-bane.</item>
+                  </list>
+               </head>
+               <p>SO many of theſe Flowers have not been ſpoken of before are mentioned next following.</p>
+               <p>
+                  <hi>Aconitum</hi> or <hi>Woolfbone</hi> Flow<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in <hi>April,</hi> and they are quickly
+<pb n="53" facs="tcp:31722:33"/>terwards under ground again, they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e increaſed by off ſets, which are very apt to grow, and may be ta<g ref="char:EOLhyphen"/>ken up and kept out of the ground until about <hi>August</hi> or <hi>September.</hi>
+               </p>
+               <p>
+                  <hi>Corn-flags,</hi> they Flower in <hi>June</hi> or <hi>July;</hi> they are increaſed by off-ſets, and muſt be taken up as ſoon as the Stalks are withered and dry, and kept out of the ground until <hi>Auguſt</hi> or <hi>September,</hi> and then you may plant ſeveral of the Roots to<g ref="char:EOLhyphen"/>gether, which are of the beſt of them, and the reſt rejected as little worth.</p>
+               <p>
+                  <hi>Lillies</hi> Flower in <hi>Iune,</hi> and are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſily increaſed by off-ſets, being parted ſoon after the Stalks are dry; nor need theſe Roots be of<g ref="char:EOLhyphen"/>ten removed, for they will indure in the ground many years.</p>
+               <p>
+                  <hi>Mortagons</hi> if we conſider all the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inds, they Flower from <hi>May</hi> un<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il <hi>August,</hi> and are increaſed by
+<pb n="54" facs="tcp:31722:34"/>off-ſets, being taken from the pri<g ref="char:EOLhyphen"/>cipal Root when the Stalks are w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>thered; neither need they to often removed.</p>
+               <p>
+                  <hi>Perſian-Lillies,</hi> Flower in <hi>Ap<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> or in <hi>May</hi> at the furtheſt, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> increaſed by off-ſets; being tak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> up and parted about <hi>Midſum<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> when the Stalks are dry, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> planted again in <hi>Auguſt.</hi>
+               </p>
+               <p>
+                  <hi>Ranunculuſes</hi> or <hi>Crowsfoot,</hi> Flower moſt commonly in <hi>Ap<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> or <hi>May,</hi> and continue long Flower; and are increaſed by p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ting the Roots about <hi>Mid S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>mer,</hi> when the Stalks are dry, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you may take them up; and aft<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> wards dry the Roots, and ke<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> them in Boxes until <hi>December January,</hi> and then plant them gain in good rank ſandy Ear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> parting the Root for increaſe, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſetting them a finger length depth in the ground, and w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <pb n="55" facs="tcp:31722:34"/>they are almoſt ready to Flower, then water them often, with Pond<g ref="char:EOLhyphen"/>water, or if Spring water: then let it be ſuch as hath ſtood in the Sun or Air, for two or three days, and the ſame may be obſerved for other Flowers: there are ſome <hi>Ra<g ref="char:EOLhyphen"/>nunculuſes</hi> that are hardy Flowers, and increaſe by the Roots very faſt, neither need they be taken up in ſeveral years.</p>
+               <p>
+                  <hi>Woolfsbane,</hi> ſee <hi>Aconitum.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="56" facs="tcp:31722:35"/>
+               <head>Of ſuch Flowers or Pla<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s are increaſed by ſlips, cuttings and other wayes that have not been mentioned before, which may be put in the Flower-Garden.</head>
+               <list>
+                  <item>
+                     <hi>ARbor-vitae,</hi>
+                  </item>
+                  <item>
+                     <hi>Baſtard-Sena,</hi>
+                  </item>
+                  <item>
+                     <hi>Bladder-nut,</hi>
+                  </item>
+                  <item>
+                     <hi>Campions,</hi>
+                  </item>
+                  <item>
+                     <hi>Dogs-teeth,</hi>
+                  </item>
+                  <item>
+                     <hi>Gilder-roſe,</hi>
+                  </item>
+                  <item>
+                     <hi>Lavender,</hi>
+                  </item>
+                  <item>
+                     <hi>Marjoram,</hi>
+                  </item>
+                  <item>
+                     <hi>Maſtich,</hi>
+                  </item>
+                  <item>
+                     <hi>Non-ſuch,</hi>
+                  </item>
+                  <item>
+                     <hi>Ripe tree,</hi>
+                  </item>
+                  <item>
+                     <hi>Roſemary,</hi>
+                  </item>
+                  <item>
+                     <hi>Pomgranate tree,</hi>
+                  </item>
+                  <item>
+                     <hi>Sage,</hi>
+                  </item>
+                  <item>
+                     <hi>Stone crop,</hi>
+                  </item>
+                  <item>
+                     <hi>Southern-wood,</hi>
+                  </item>
+                  <item>
+                     <hi>Sumach,</hi>
+                  </item>
+                  <item>
+                     <hi>Syring, ſee Pipe tree,</hi>
+                  </item>
+                  <item>
+                     <hi>Time,</hi>
+                  </item>
+                  <item>
+                     <hi>Trefoil.</hi>
+                  </item>
+               </list>
+               <pb n="57" facs="tcp:31722:35"/>
+               <p>
+                  <hi>ARbor vitae,</hi> or <hi>Tree of Life</hi> ſo called, flowereth in <hi>May,</hi> and may be raiſed from ſeed or Layers,</p>
+               <p>
+                  <hi>Baſtard Sena,</hi> Flowereth in <hi>May,</hi> and it may be raiſed from cuttings, ſeeds, ſuckers, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Bladder-nut,</hi> this Tree or Buſh beareth ſweet whitiſh Flowers, and may be increaſed from Suc<g ref="char:EOLhyphen"/>kers.</p>
+               <p>
+                  <hi>Campions,</hi> Flower in <hi>June,</hi> and more or leſs continue Flowering until <hi>September,</hi> they are increaſed by ſlips; which may be taken off in <hi>Auguſt</hi> or <hi>September,</hi> and planted ſo that they may receive ſome Root before the ſeverity of Win<g ref="char:EOLhyphen"/>ter come upon them.</p>
+               <p>
+                  <hi>Dogs-Teeth,</hi> (the Flowers ſo called) do <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ower in <hi>March</hi> or <hi>A<g ref="char:EOLhyphen"/>pril,</hi> they are raiſed from ſeed which is brought over every year
+<pb n="58" facs="tcp:31722:36"/>from beyond Sea, which ſeed may be had in <hi>London,</hi> of ſeveral that make a Trade thereof, they may be planted in only good Earth, not too full of Dung in or near <hi>Au<g ref="char:EOLhyphen"/>guſt.</hi>
+               </p>
+               <p>
+                  <hi>Gilder-Roſe,</hi> Flowereth in <hi>May,</hi> and is moſt commonly increaſed by Suckers.</p>
+               <p>
+                  <hi>Lavender,</hi> the Tops of which is very ſweet, and for that reaſon is often planted in Flower Gar<g ref="char:EOLhyphen"/>dens, and is raiſed from ſlips, which may be planted in the lat<g ref="char:EOLhyphen"/>ter end of <hi>March,</hi> if the time be ſeaſonable, and the Spring for<g ref="char:EOLhyphen"/>wardly, or elſe in <hi>April</hi> is time enough.</p>
+               <p>
+                  <hi>Marjerom gentle,</hi> or Winter <hi>Marjerom,</hi> is of a ſweet and plea<g ref="char:EOLhyphen"/>ſant ſcent, and may be increaſed either from the ſlips or out<g ref="char:EOLhyphen"/>tings.</p>
+               <pb n="59" facs="tcp:31722:36"/>
+               <p>
+                  <hi>Maſtick,</hi> (the Herb I mean) is of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> very pleaſant ſcent, and may be increaſed by taking ſlips o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bran<g ref="char:EOLhyphen"/>ches.</p>
+               <p>
+                  <hi>Non-ſuch,</hi> moſt or all of them Flower in <hi>July,</hi> they are increaſed by taking young Plants in <hi>March</hi> from the old Roots, ſee before.</p>
+               <p>
+                  <hi>Pipe tree,</hi> flowereth from <hi>May</hi> until <hi>September,</hi> it is a nice Plant and not to be dealt with by any but the curious Artiſt.</p>
+               <p>
+                  <hi>Pomgranate-tree,</hi> flowereth in <hi>Auguſt</hi> or <hi>September,</hi> it is raiſed from Layers or Suckers; and be<g ref="char:EOLhyphen"/>ing planted in good ground under a warm South-wall, and a little de<g ref="char:EOLhyphen"/>ſended from Froſt in Winter till it become pretty hardy, it may then grow a tall Tree.</p>
+               <p>
+                  <hi>Roſemary,</hi> all the forts flower in <hi>May,</hi> and it may be increaſed by ſetting the ſlips in the beginning of the Spring, or in the beginning of Autumn.</p>
+               <pb n="60" facs="tcp:31722:37"/>
+               <p>
+                  <hi>Sage,</hi> thoſe ſorts which are ſweet, or ſtripped, are uſually planted in Flower Gardens, they are increaſed by ſetting the ſlips in <hi>April.</hi>
+               </p>
+               <p>
+                  <hi>Stone crop</hi> (the Tree ſo called) Flowereth in <hi>Auguſt,</hi> and may be increaſed by Layers or cuttings ſet in <hi>March.</hi>
+               </p>
+               <p>
+                  <hi>Southernwood,</hi> Flowereth in <hi>Iuly,</hi> and may be increaſed by ſetting the ſlips in a Pot, or Boxes, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>March,</hi> ſo that they may be houſed in Winter.</p>
+               <p>
+                  <hi>Sumach</hi> is raiſed either from the ſeed being ripe and good, or elſe by parting the Root.</p>
+               <p>Syring, <hi>ſee</hi> Pipe tree.</p>
+               <p>
+                  <hi>Time<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> is raiſed and increaſed by ſetting the ſlips or branches in <hi>A<g ref="char:EOLhyphen"/>pril,</hi> being then moſt apt to take Root.</p>
+               <pb n="61" facs="tcp:31722:37"/>
+               <p>
+                  <hi>Trefoile</hi> that which is called <hi>Bean Trefoile</hi> Flowereth in <hi>May,</hi> and may be increaſed either by Layers or Cuttings.</p>
+               <p>
+                  <hi>Trefoile,</hi> the Tree <hi>Trefoile</hi> I mean Flowereth in <hi>May,</hi> and may beſt of all be raiſed by ſetting the ſlips in Boxes, or Pots in <hi>Iune,</hi> whereby they may be kept from the violence of the Winter.</p>
+               <p>The Flowers which were before mentioned are here ſet down in eve<g ref="char:EOLhyphen"/>ry moneth wherein they Flower, and are uſually in moſt ſplend our, according to the courſe of nature in this our Climate, yet I deny not but the nature of the ground, ſeaſon, time of planting, art uſed in ſhading, or more expoſing them to the Sun, <hi>&amp;c.</hi> may cauſe ſome variation in their Flowering ſooner or later.</p>
+               <pb n="62" facs="tcp:31722:38"/>
+               <p>In ſo many Moneths as you here find any one Flower mentioned, in thoſe Moneths are they for the moſt part in a flouriſhing ſtate.</p>
+               <list>
+                  <head>January.</head>
+                  <item>
+                     <hi>BLack Hellebores,</hi>
+                  </item>
+                  <item>
+                     <hi>Mizerions,</hi>
+                  </item>
+                  <item>
+                     <hi>Red Primroſes.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>February.</head>
+                  <item>
+                     <hi>Bulbous vi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lets,</hi>
+                  </item>
+                  <item>
+                     <hi>Crocuſſes, of the Spring,</hi>
+                  </item>
+                  <item>
+                     <hi>Mizerions.</hi>
+                  </item>
+                  <item>
+                     <hi>Primroſes,</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>March.</head>
+                  <item>
+                     <hi>Anemones or Emanies,</hi>
+                  </item>
+                  <item>
+                     <hi>Bulbous violets,</hi>
+                  </item>
+                  <pb n="63" facs="tcp:31722:38"/>
+                  <item>
+                     <hi>Couſlips,</hi>
+                  </item>
+                  <item>
+                     <hi>Crocuſſes, of the ſpring,</hi>
+                  </item>
+                  <item>
+                     <hi>Crown Imperial,</hi>
+                  </item>
+                  <item>
+                     <hi>Duffodils,</hi>
+                  </item>
+                  <item>
+                     <hi>Dogs-teeth,</hi>
+                  </item>
+                  <item>
+                     <hi>Fritillaries,</hi>
+                  </item>
+                  <item>
+                     <hi>Gilliflowers,</hi>
+                  </item>
+                  <item>
+                     <hi>Hepartica or Liverworts,</hi>
+                  </item>
+                  <item>
+                     <hi>Mizerions,</hi>
+                  </item>
+                  <item>
+                     <hi>Oxlips,</hi>
+                  </item>
+                  <item>
+                     <hi>Primroſes.</hi>
+                  </item>
+                  <item>
+                     <hi>Wall flowers.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>April.</head>
+                  <item>
+                     <hi>Aconitum or Woolfs bane,</hi>
+                  </item>
+                  <item>
+                     <hi>Anemones or Emanies,</hi>
+                  </item>
+                  <item>
+                     <hi>Auricula's or Bears-ears,</hi>
+                  </item>
+                  <item>
+                     <hi>Bulbous violets,</hi>
+                  </item>
+                  <item>
+                     <hi>Couſlips,</hi>
+                  </item>
+                  <item>
+                     <hi>Crown Imperial,</hi>
+                  </item>
+                  <item>
+                     <hi>Clyclamen, of the ſpring,</hi>
+                  </item>
+                  <item>
+                     <hi>Daffodils,</hi>
+                  </item>
+                  <item>
+                     <hi>Daſies,</hi>
+                  </item>
+                  <item>
+                     <hi>Dogs-teeth,</hi>
+                  </item>
+                  <item>
+                     <hi>Dwarff flower-deluces,</hi>
+                  </item>
+                  <pb n="64" facs="tcp:31722:39"/>
+                  <item>
+                     <hi>Flower-deluces,</hi>
+                  </item>
+                  <item>
+                     <hi>Fritillaries,</hi>
+                  </item>
+                  <item>
+                     <hi>Gilliflowers,</hi>
+                  </item>
+                  <item>
+                     <hi>Hypericum frutex or wood St: Johns-wort.</hi>
+                  </item>
+                  <item>
+                     <hi>Jacinths or Hyacinth,</hi>
+                  </item>
+                  <item>
+                     <hi>Lady ſmocks,</hi>
+                  </item>
+                  <item>
+                     <hi>Mizerions,</hi>
+                  </item>
+                  <item>
+                     <hi>Oxlips,</hi>
+                  </item>
+                  <item>
+                     <hi>Perſian lillies,</hi>
+                  </item>
+                  <item>
+                     <hi>Primroſes,</hi>
+                  </item>
+                  <item>
+                     <hi>Ranunculuſes, or Crowsfoot</hi>
+                  </item>
+                  <item>
+                     <hi>Star-flowers,</hi>
+                  </item>
+                  <item>
+                     <hi>Stock-gilliflowers,</hi>
+                  </item>
+                  <item>
+                     <hi>Tulips,</hi>
+                  </item>
+                  <item>
+                     <hi>Wall flowers,</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>May,</head>
+                  <item>
+                     <hi>Anemones or Emanies,</hi>
+                  </item>
+                  <item>
+                     <hi>Arbor-vitae,</hi>
+                  </item>
+                  <item>
+                     <hi>Auricula's or Bears-ears,</hi>
+                  </item>
+                  <item>
+                     <hi>Baſtard Sena,</hi>
+                  </item>
+                  <item>
+                     <hi>Bell-flowers, or Saterions,</hi>
+                  </item>
+                  <item>
+                     <hi>Bulbous violets,</hi>
+                  </item>
+                  <pb n="65" facs="tcp:31722:39"/>
+                  <item>
+                     <hi>Colombines,</hi>
+                  </item>
+                  <item>
+                     <hi>Couſlips,</hi>
+                  </item>
+                  <item>
+                     <hi>Cyclamen, of the ſpring,</hi>
+                  </item>
+                  <item>
+                     <hi>Daffodils that have ſeveral flowers on a ſtalk</hi>
+                  </item>
+                  <item>
+                     <hi>Dwarff-flower-deluces,</hi>
+                  </item>
+                  <item>
+                     <hi>Emanies,</hi>
+                  </item>
+                  <item>
+                     <hi>Flag Flower-deluces,</hi>
+                  </item>
+                  <item>
+                     <hi>Flower-deluces,</hi>
+                  </item>
+                  <item>
+                     <hi>Fritillaries,</hi>
+                  </item>
+                  <item>
+                     <hi>Gigder-roſes,</hi>
+                  </item>
+                  <item>
+                     <hi>Gilliflowers,</hi>
+                  </item>
+                  <item>
+                     <hi>Hearb-mullen,</hi>
+                  </item>
+                  <item>
+                     <hi>Hellebore,</hi>
+                  </item>
+                  <item>
+                     <hi>Honey-ſuckles,</hi>
+                  </item>
+                  <item>
+                     <hi>Hyacinth,</hi>
+                  </item>
+                  <item>
+                     <hi>Jacinths,</hi>
+                  </item>
+                  <item>
+                     <hi>Lilly Aſpodils.</hi>
+                  </item>
+                  <item>
+                     <hi>Molys,</hi>
+                  </item>
+                  <item>
+                     <hi>Martagons,</hi>
+                  </item>
+                  <item>
+                     <hi>Night-ſhade,</hi>
+                  </item>
+                  <item>
+                     <hi>Oxlips,</hi>
+                  </item>
+                  <item>
+                     <hi>Paenies,</hi>
+                  </item>
+                  <item>
+                     <hi>Perſian-lillies,</hi>
+                  </item>
+                  <item>
+                     <hi>Pipe Tree,</hi>
+                  </item>
+                  <item>
+                     <hi>Primroſes,</hi>
+                  </item>
+                  <item>
+                     <hi>Queen-gilliflowers,</hi>
+                  </item>
+                  <pb n="66" facs="tcp:31722:40"/>
+                  <item>
+                     <hi>Ranunculuſes or Crows-foot</hi>
+                  </item>
+                  <item>
+                     <hi>Roſemaries,</hi>
+                  </item>
+                  <item>
+                     <hi>Shrub Night-ſhade,</hi>
+                  </item>
+                  <item>
+                     <hi>Snap-dragons,</hi>
+                  </item>
+                  <item>
+                     <hi>Spaniſh broom,</hi>
+                  </item>
+                  <item>
+                     <hi>Spiders wort,</hi>
+                  </item>
+                  <item>
+                     <hi>Star flower,</hi>
+                  </item>
+                  <item>
+                     <hi>Stock gilliflowers,</hi>
+                  </item>
+                  <item>
+                     <hi>Tree Trefoile,</hi>
+                  </item>
+                  <item>
+                     <hi>Tulips,</hi>
+                  </item>
+                  <item>
+                     <hi>Wall flowers,</hi>
+                  </item>
+                  <item>
+                     <hi>Woodbine,</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>June.</head>
+                  <item>
+                     <hi>Aſpodils,</hi>
+                  </item>
+                  <item>
+                     <hi>Campions,</hi>
+                  </item>
+                  <item>
+                     <hi>Ciſtus,</hi>
+                  </item>
+                  <item>
+                     <hi>Corn flag,</hi>
+                  </item>
+                  <item>
+                     <hi>Corn flower or blew bottles,</hi>
+                  </item>
+                  <item>
+                     <hi>Cyclamen,</hi>
+                  </item>
+                  <item>
+                     <hi>Dwarff flower-deluces,</hi>
+                  </item>
+                  <item>
+                     <hi>Flower-deluces,</hi>
+                  </item>
+                  <item>
+                     <hi>Flowers of Briſtol, Campions, or No<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>-ſuch.</hi>
+                  </item>
+                  <pb n="67" facs="tcp:31722:40"/>
+                  <item>
+                     <hi>Fraxinella's,</hi>
+                  </item>
+                  <item>
+                     <hi>Foxgloves,</hi>
+                  </item>
+                  <item>
+                     <hi>Hellebore,</hi>
+                  </item>
+                  <item>
+                     <hi>Hearb-mullen,</hi>
+                  </item>
+                  <item>
+                     <hi>Honey-ſuckles,</hi>
+                  </item>
+                  <item>
+                     <hi>Hyarmiths,</hi>
+                  </item>
+                  <item>
+                     <hi>Jacinths,</hi>
+                  </item>
+                  <item>
+                     <hi>Larksheels, or Larks ſpurs</hi>
+                  </item>
+                  <item>
+                     <hi>Lillies Aſpodil,</hi>
+                  </item>
+                  <item>
+                     <hi>London pride,</hi>
+                  </item>
+                  <item>
+                     <hi>Lillies,</hi>
+                  </item>
+                  <item>
+                     <hi>Mortagons,</hi>
+                  </item>
+                  <item>
+                     <hi>Molys,</hi>
+                  </item>
+                  <item>
+                     <hi>Nigella or Fennel flower.</hi>
+                  </item>
+                  <item>
+                     <hi>Nightſhade,</hi>
+                  </item>
+                  <item>
+                     <hi>Pinks,</hi>
+                  </item>
+                  <item>
+                     <hi>Primroſes,</hi>
+                  </item>
+                  <item>
+                     <hi>Queens Gilliflowers,</hi>
+                  </item>
+                  <item>
+                     <hi>Red Satten Flower, or French Honey<g ref="char:EOLhyphen"/>ſuckles.</hi>
+                  </item>
+                  <item>
+                     <hi>Shrub nightſhade,</hi>
+                  </item>
+                  <item>
+                     <hi>Snap Dragons,</hi>
+                  </item>
+                  <item>
+                     <hi>Spider worts,</hi>
+                  </item>
+                  <item>
+                     <hi>Star flowers,</hi>
+                  </item>
+                  <item>
+                     <hi>Sweet Johns,</hi>
+                  </item>
+                  <item>
+                     <hi>Sweet Williams,</hi>
+                  </item>
+                  <item>
+                     <hi>Tulips,</hi>
+                  </item>
+                  <item>
+                     <hi>Woodbines,</hi>
+                  </item>
+               </list>
+               <pb n="68" facs="tcp:31722:41"/>
+               <list>
+                  <head>July,</head>
+                  <item>
+                     <hi>Carnations or Gilliflowers,</hi>
+                  </item>
+                  <item>
+                     <hi>Candy tuſts,</hi>
+                  </item>
+                  <item>
+                     <hi>Champions or Non-ſuch,</hi>
+                  </item>
+                  <item>
+                     <hi>Ciſtus.</hi>
+                  </item>
+                  <item>
+                     <hi>Corn flag,</hi>
+                  </item>
+                  <item>
+                     <hi>Corn-flowers, or Blew-bottles,</hi>
+                  </item>
+                  <item>
+                     <hi>Double Poppies,</hi>
+                  </item>
+                  <item>
+                     <hi>Flower-deluces.</hi>
+                  </item>
+                  <item>
+                     <hi>Flowers of Briſtol, or Non-ſuch,</hi>
+                  </item>
+                  <item>
+                     <hi>Fox-gloves,</hi>
+                  </item>
+                  <item>
+                     <hi>Fraxinella's,</hi>
+                  </item>
+                  <item>
+                     <hi>Hyacinths,</hi>
+                  </item>
+                  <item>
+                     <hi>Jacinths,</hi>
+                  </item>
+                  <item>
+                     <hi>Jaſmines,</hi>
+                  </item>
+                  <item>
+                     <hi>Indian-creſſes, or yellow Larks-heels,</hi>
+                  </item>
+                  <item>
+                     <hi>Marvile of Peru,</hi>
+                  </item>
+                  <item>
+                     <hi>Martagons,</hi>
+                  </item>
+                  <item>
+                     <hi>Non ſuch,</hi>
+                  </item>
+                  <item>
+                     <hi>Pipe Tree,</hi>
+                  </item>
+                  <item>
+                     <hi>Primorfes,</hi>
+                  </item>
+                  <item>
+                     <hi>Queen Gilliflowers.</hi>
+                  </item>
+                  <item>
+                     <hi>Red Satten flower, or French Honey-ſuckles.</hi>
+                  </item>
+                  <pb n="69" facs="tcp:31722:41"/>
+                  <item>
+                     <hi>Roſes,</hi>
+                  </item>
+                  <item>
+                     <hi>Snap-dragons,</hi>
+                  </item>
+                  <item>
+                     <hi>Virgins bower,</hi>
+                  </item>
+                  <item>
+                     <hi>Wild and Toad flax,</hi>
+                  </item>
+                  <item>
+                     <hi>Wood bline,</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Auguſt,</head>
+                  <item>
+                     <hi>Africanes, or French Marigolds,</hi>
+                  </item>
+                  <item>
+                     <hi>Amaranthus or Flower-gentle,</hi>
+                  </item>
+                  <item>
+                     <hi>Ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nations or Gilliflowers,</hi>
+                  </item>
+                  <item>
+                     <hi>Champians,</hi>
+                  </item>
+                  <item>
+                     <hi>Corn flowers, or blew-bottles</hi>
+                  </item>
+                  <item>
+                     <hi>Double Hollihacks or Garden Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ows,</hi>
+                  </item>
+                  <item>
+                     <hi>Flowers of Briſtol,</hi>
+                  </item>
+                  <item>
+                     <hi>Flowers of the Sun,</hi>
+                  </item>
+                  <item>
+                     <hi>Fox gloves,</hi>
+                  </item>
+                  <item>
+                     <hi>Holliocks,</hi>
+                  </item>
+                  <item>
+                     <hi>Jacinths or Hyacinths,</hi>
+                  </item>
+                  <item>
+                     <hi>Jaſmines,</hi>
+                  </item>
+                  <item>
+                     <hi>Indian Creſſes, or yellow Larks-heel.</hi>
+                  </item>
+                  <item>
+                     <hi>Martagons,</hi>
+                  </item>
+                  <item>
+                     <hi>Marvile of Peru,</hi>
+                  </item>
+                  <item>
+                     <hi>Non-ſuch,</hi>
+                  </item>
+                  <item>
+                     <hi>Pipe Tree</hi>
+                  </item>
+                  <item>
+                     <hi>Primr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſes,</hi>
+                  </item>
+                  <item>
+                     <hi>Shrub mallows,</hi>
+                  </item>
+                  <pb n="70" facs="tcp:31722:42"/>
+                  <item>
+                     <hi>Shrub Spirae or Spiraea frutex.</hi>
+                  </item>
+                  <item>
+                     <hi>Virgins bower,</hi>
+                  </item>
+                  <item>
+                     <hi>Wild and toad Elax.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>September,</head>
+                  <item>
+                     <hi>Africanes or French Marigolds,</hi>
+                  </item>
+                  <item>
+                     <hi>Amaranthus, or Flower-gentle,</hi>
+                  </item>
+                  <item>
+                     <hi>Bind-weed,</hi>
+                  </item>
+                  <item>
+                     <hi>Campions,</hi>
+                  </item>
+                  <item>
+                     <hi>Crocuſſes Autumnal,</hi>
+                  </item>
+                  <item>
+                     <hi>Double Hollihocks, or Garden-mallows,</hi>
+                  </item>
+                  <item>
+                     <hi>Flowers of Briſtol, or Non-ſuch.</hi>
+                  </item>
+                  <item>
+                     <hi>Flowers of the Sun,</hi>
+                  </item>
+                  <item>
+                     <hi>Indian Creſſes, or yellow Larks heels,</hi>
+                  </item>
+                  <item>
+                     <hi>Marvile of Peru,</hi>
+                  </item>
+                  <item>
+                     <hi>Meddow Saffron,</hi>
+                  </item>
+                  <item>
+                     <hi>Nerſtertions,</hi>
+                  </item>
+                  <item>
+                     <hi>Pipe Tree,</hi>
+                  </item>
+                  <item>
+                     <hi>Primroſes red</hi>
+                  </item>
+                  <item>
+                     <hi>Shrub Mallo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>Sun Flowers,</hi>
+                  </item>
+               </list>
+               <pb n="71" facs="tcp:31722:42"/>
+               <list>
+                  <head>October.</head>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rocuffes Autumnal,</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>arvile of Peru,</hi>
+                  </item>
+                  <item>
+                     <hi>Meddow Saffron,</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Primroſes,</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>November.</head>
+                  <item>
+                     <hi>Black Hellebore,</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d Primroſes,</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>December,</head>
+                  <item>
+                     <hi>Black Hellebore,</hi>
+                  </item>
+                  <item>
+                     <hi>Primroſes red,</hi>
+                  </item>
+               </list>
+               <p>Many more rare and excellent Flowers might be add<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> the beautifying of this Garden, but the moſt part of them being more
+<pb n="72" facs="tcp:31722:43"/>tender then theſe even now menti<g ref="char:EOLhyphen"/>oned, and much skill, care and trouble muſt be uſed in ordering the ſame in this colder Climate, which cannot be expected from ordinary Country people (for whom this was chiefly intended) it would therefore be of ſmall mo<g ref="char:EOLhyphen"/>ment to treat of them, as alſo of many other ever-greens; but of theſe we may poſſibly have occa<g ref="char:EOLhyphen"/>ſion to ſpeak ſomething of here after, if opportunity permit.</p>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="73" facs="tcp:31722:43"/>
+            <head>THE GARDENERS DIALLING SHEWING <hi>How to draw a Diall on a Graſs-plot in the middle, or any other part of a Garden, or in a Plantation, or in any Field, or Down; as alſo in a Flower-Garden, it be<g ref="char:EOLhyphen"/>ing drawn as any other Knot for ornament.</hi>
+            </head>
+            <p>THis is performed after the ſame way as the drawing of a
+<pb n="74" facs="tcp:31722:44"/>Horizontal Diall on any other Plane: And therefore, thoſe who deſire to draw, or cut out a Diall on a Graſs plot in a Garden, or elſewhere; ought firſt to cut the graſs very ſhort if it be not ſo, then they muſt make the place even, either by raiſing the lower, or elſe by beating down the highter places in that piece of ground which is in<g ref="char:EOLhyphen"/>tended for that purpoſe, until it be found exactly plane, as a Plane ought to be for a Horizon<g ref="char:EOLhyphen"/>tal Diall, which you may try after this manner.</p>
+            <p>Firſt take any board of a Foot broad or more, and five or ſix Foot long at the leaſt, and make one ſide thereof ſtreight, and then and inch or two from the ſtreight ſide draw a line parallel thereto; about the middle of which line e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect a perpendicular (that is draw a line juſt croſe the board)
+<pb n="75" facs="tcp:31722:44"/>and at the middle or Centre cut a hole in the board to the edge of the parallel line for a Plummet to hang in, it being faſtned with a thread to the upper ſide of the board; then if your Plane ſeem to be level with the Horizon, you may try it by applying the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eight ſide of your board there<g ref="char:EOLhyphen"/>unto, and holding the perpendicu<g ref="char:EOLhyphen"/>lar line upright, and a Thread and Plummet in your hand, or it may be faſtned on the upper ſider of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ard ſo as the Plummet may <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve free play in the hole, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en the thread falleth on the perpendicular line, which way ſo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er you turn the board it is then <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de even with the Horizon, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay be properly called a Horizon<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Plane, as if it were either wood <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ne.</p>
+            <pb n="76" facs="tcp:31722:45"/>
+            <p>Or elſe you may try whether it be a Horizontal Plane by a Carpen<g ref="char:EOLhyphen"/>ters, Bricklayers, or Maſons level if you have ſuch an Inſtrument ready, or can eaſily procure one.</p>
+            <div type="part">
+               <head>To draw a Diall on a Graſs plot, it being firſt made Horizontal.</head>
+               <figure>
+                  <pb facs="tcp:31722:45"/>
+                  <pb facs="tcp:31722:46"/>
+                  <pb facs="tcp:31722:47"/>
+                  <pb facs="tcp:31722:48"/>
+                  <figDesc>dialing diagram</figDesc>
+                  <head>Figure 1. Place it between page 76 and 77.</head>
+               </figure>
+               <p>Firſt put a ſtring on the Centre or Pinn, and meaſure ſix foot thereof, whereat exactly hold your hand with a piece of Chalk or Whiting in your hand, ſo that the Green or Garden-plot being dry by turning round you may draw a Circle, which you may with a Knife or other Inſtrument, cut out as you pleaſe; that Citcle being made, you may then draw another Circle about ſixteen or eighteen inches without it, be<g ref="char:EOLhyphen"/>tween which two Circles (laſt of all) the Figures at the end of the hour-lines to ſhow the time of the
+<pb n="78" facs="tcp:31722:49"/>day ought to be cut, if you will have your Diall drawn round.</p>
+               <p>Having thus done; draw your Meridian line, pointing right North and South; which you may do either by a needle that is well touch't, or elſe you may ſet up a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> rod perpendicular, (which may be done by holding a Thread and Plummet thereto) and where the Shaddow is when the Sun is full South, that is, when is is full twelve a Clock, which you may ſee by another Diall that is truly drawn, I ſay, where the ſhad<g ref="char:EOLhyphen"/>dow toucheth at high noon, the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> draw the Meridian-line <hi>A B</hi> (a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you may ſee Figure the firſt through the Center <hi>C</hi> this line is full North and South, and ſer<g ref="char:EOLhyphen"/>veth for the Meridian, the hou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of twelve and the Subſtilar: the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> through the point or Centre
+<pb facs="tcp:31722:49"/>
+                  <pb facs="tcp:31722:50"/>
+                  <pb n="79" facs="tcp:31722:50"/>draw the line <hi>D E,</hi> croſſing the Meridian at right Angles, which may be done thus;</p>
+               <p>Set the point of your Com<g ref="char:EOLhyphen"/>paſſes in the Circle, at the end of the Meridian-line, either North or South, and divide the Circum<g ref="char:EOLhyphen"/>ference <hi>A D B E</hi> into four equal parts, and draw the croſs-line Eaſt and Weſt <hi>D E</hi> which ſerveth for the Six a Clock line, both for mor<g ref="char:EOLhyphen"/>ning and evening.</p>
+               <p>Next to find the height of the Stile or Cocks elevation, take the latitude of the place, which is here fifty two degrees and twen<g ref="char:EOLhyphen"/>ty minutes, and ſet it from <hi>A</hi> to <hi>O</hi> in the Quadrant <hi>A D,</hi> and draw the line <hi>C O S,</hi> then from <hi>A</hi> raiſe the perpendicular <hi>A S</hi> to cut the line <hi>S C</hi> at <hi>S,</hi> ſo ſhall the Triangle <hi>A C S</hi> be the exact pattern of your
+<pb n="80" facs="tcp:31722:51"/>Cock, and preſents the Axle-tree of the world.</p>
+               <p>But to the unlearned (to whom I write) I will ſhew how they may get the height of the Stile, not regarding the line of Cords, becauſe the Radius is in this work too large for moſt Rules, except you have one made purpoſely, which is not worth while, ſeeing i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may be performed otherwiſe.</p>
+               <p>Take the Radius or Semi-dia<g ref="char:EOLhyphen"/>miter of your Circle, which is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere ſix Foot with a ſtring, (for I ſuppoſe you have no Compaſſes that will reach it, yet ſuch may eaſily be had) and holding it at the North end of the Meridian mea<g ref="char:EOLhyphen"/>ſure the length thereof i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Quadrant, or Arch-line towards <hi>D,</hi> which divide into ſix equal parts which are ninety Degrees,
+<pb n="81" facs="tcp:31722:51"/>and may be numbred, ten, twenty, thirty, forty, fifty, ſixty, <hi>&amp;c.</hi> which if you take five of thoſe parts it is fifty degrees, and then if you divide the next part, which is ſixty into ten parts, and take ſomething more then two of thoſe ſmall parts, you have then fifty two <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>egreos and twenty minutes the exact height of your ſtile.</p>
+               <p>And thus if you deſire not to have your ſtile in one piece, all the whole breadth or height, you may have a Square or round piece of Iron or Wood which is ſtraight ſet upright in the Circle of the North end of the Meridian the juſt height of the ſtile, and from the top thereof you may have another piece fitted, which will reach to the Center of the Diall to make an exact Triangle for the height of the Cock: And let it be ſo
+<pb n="82" facs="tcp:31722:52"/>contrived that the ſlanting piece may be taken away and put there again at pleaſure, that ſo it may neither be troubleſome, nor de<g ref="char:EOLhyphen"/>form the place in the leaſt, if it be in a Garden.</p>
+               <p>Now to find the reſt of the hour-lines (for we have yet but the 12 a Clock-line, and the hour of 6 in the morning and evening) you may divide the two quarters of your Circle <hi>A E,</hi> and <hi>A D</hi> each into ſix equal parts, ſo ſhall you have in each Quarter or Quadrant, 5 points, by which you may draw the 5 Chord-lines; which in a Garden may be drawn with chalk, and is eaſily wiped out again, or elſe you may inſtead thereof lay ſo many ſtrings or ſtrained Pack<g ref="char:EOLhyphen"/>threads; ſticking a pin in each, or making a mark where the hour-line is to be drawn; theſe Chord-lines
+<pb n="83" facs="tcp:31722:52"/>being laid or drawn <hi>I F G H</hi> and <hi>A,</hi> as you may ſee in Figure the firſt; then take one half of the Cord-line <hi>A,</hi> &amp; ſet it in the line of the ſtile from <hi>C</hi> to <hi>N,</hi> from which point <hi>N</hi> take the neareſt extent unto the Meridian, with this ſame diſtance ſetting one foot in the point <hi>A,</hi> with the other make a mark on each ſide of the Meridi<g ref="char:EOLhyphen"/>an in the ſame Chord-line <hi>A,</hi> through which point from the Center draw the hour lines of 1 and 11, ſo likewiſe you may take one half of the Chord-line <hi>H,</hi> and place it in the line of the Stile from <hi>C</hi> to <hi>K,</hi> from which point <hi>K</hi> take the ſhorteſt extent unto the Meridian; with this diſtance ſet on foot in <hi>H,</hi> and with the other make on each ſide the Meridian a mark in the ſame Chord-line, through which you a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o to draw the Hour-lines of 2 and 10, and
+<pb n="82" facs="tcp:31722:53"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="83" facs="tcp:31722:53"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="84" facs="tcp:31722:54"/>ſo you may do in the reſt of the Lines, as the Figure will ſhew; and they being drawn in white or red, you may cut them forth in the Graſs plot as you pleaſe; or if it be in a Flower-garden all the Lines may be of Box, Roſemary, Iſop, or any other ſuch like, as will eaſily be kept in good form; but then a larger extent then we have here mentioned ought to be uſed. And whereas in Summer the 4 and 5 in the morning, and alſo 7 and 8 at evening may be neceſſary, draw the Lines of 4 and 5 at evening beyond the Cen<g ref="char:EOLhyphen"/>ter <hi>C,</hi> and they will ſhew the hours of 4 and 5 in the morn<g ref="char:EOLhyphen"/>ing, and likewiſe the 7 and 8 in the morning for 7 and 8 in the evening.</p>
+               <p>But the operation of this large<g ref="char:EOLhyphen"/>neſs being troubleſome, becauſe
+<pb n="85" facs="tcp:31722:54"/>that ordinary Inſtruments will not conveniently reach to perform the ſame; therefore I will ſhew briefly how it may be drawn ei<g ref="char:EOLhyphen"/>ther on Paper or Paſt-board, and being fixed on the middle or Cen<g ref="char:EOLhyphen"/>ter of your Graſs-plot or Green, or other place where you intend to draw your Diall, the Lines may be extended to what length is required.</p>
+               <p>Therefore having prepared rea<g ref="char:EOLhyphen"/>dy a large ſheet of Paper that is very thick, as Dutch Paper is, or ſuch as is commonly made uſe of for the drawing of Leaſes; or elſe a piece of ſmooth Paſt-board, ſuch as may be had at any Card-makers; I ſay, having ready ſuch a piece of Paper or Paſt-board, in the middle thereof chuſe your Center as at <hi>C,</hi> then draw your Circle, and divide it into four
+<pb n="86" facs="tcp:31722:55"/>equal parts, and draw your Meri<g ref="char:EOLhyphen"/>dian Line <hi>A B,</hi> and croſs it at right Angles in the middle, with the Line <hi>D E</hi> for the ſix a clock line.</p>
+               <p>You may draw your Circle from what Radius you pleaſe, as ſuppoſe 6 inches or more, which may be wiped out again.</p>
+               <p>Having the hours of 12 and 6, then take the height of your Cock or Stile, as I have before ſhewn; or from a Line of Chords accor<g ref="char:EOLhyphen"/>dingly, take off as many Degrees as you would lay down, which here is 52 Degrees and 20 mi<g ref="char:EOLhyphen"/>nutes, which ſet from <hi>A</hi> to <hi>O,</hi> and ſo is the Triangle <hi>C O S,</hi> the pattern for the Cocks elevation, as is before ſhewn.</p>
+               <figure>
+                  <pb facs="tcp:31722:56"/>
+                  <pb facs="tcp:31722:57"/>
+                  <figDesc>dialing diagram</figDesc>
+                  <head>Figure 2. Place it between page 86 and 87.</head>
+               </figure>
+               <pb n="87" facs="tcp:31722:55"/>
+               <p>This being done, divide the two quarters of the Circle <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as before is ſhewn) into ſix equal parts, ſo is there in each Qua<g ref="char:EOLhyphen"/>drant 5 points by which you are to draw the five Cord-lines <hi>I F G H</hi> and <hi>A;</hi> then take one half of the Gord-line <hi>A,</hi> and ſet it in the line of the Stile from <hi>C</hi> to <hi>N,</hi> from which point <hi>N</hi> take the neareſt diſtance unto the Me<g ref="char:EOLhyphen"/>ridian, and with this extent ſet<g ref="char:EOLhyphen"/>ting one foot in the point <hi>A,</hi> with the other make a mark on each ſide of the Meridian in the ſame Cord line <hi>A,</hi> through which points draw the Hour-lines of 1 and 11, and ſo of all the reſt, as is already fully enough expreſt.</p>
+               <p>Thus having drawn all the Lines parallel, or double, as you may ſee by Figure the ſecond, you
+<pb n="86" facs="tcp:31722:58"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="87" facs="tcp:31722:58"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="88" facs="tcp:31722:59"/>may then eaſily cut them forth (or plant them with Roſemary, Hy<g ref="char:EOLhyphen"/>ſop, Time, Box, <hi>&amp;c.</hi> if you cut by the edge of every Line, when you have drawn them to their full length, taking away all except the Lines only, and the narrow ſpace between the parallel Lines, which being left on a Graſs-plot will be the Hour-lines; and the Figures at the ends of the Hour-lines are handſomly to be cut, and left as here you ſee at twelve, and all the reſt of the turf, or other earth in the inſter<g ref="char:EOLhyphen"/>ſtaces being taken away about three or four inches deep, and fine gravel put in the place, to fill thoſe low places almoſt even a<g ref="char:EOLhyphen"/>gain, and then being beaten down hard, and the graſs on the Lines kept ſhort, it will ſeem very handſome in a Garden or Plan<g ref="char:EOLhyphen"/>tation: or elſe if you like not
+<pb n="89" facs="tcp:31722:59"/>this way, you may then cut out the breadth of the Hour-lines, Circles and Figures only as deep as you ſee good, and put fine gra<g ref="char:EOLhyphen"/>vel only in thoſe Lines, and be<g ref="char:EOLhyphen"/>ing beaten hard it will be well e<g ref="char:EOLhyphen"/>nough.</p>
+               <p>Theſe Wayes are much uſed amongſt the Planters in the <hi>In<g ref="char:EOLhyphen"/>dies;</hi> but becauſe the Graſs is apt to grow faſt and over-ſpread the gravel, and thereby ariſeth much trouble in keeping them handſome, ſome have the Lines thereof laid in Wood, or Stone, and then they are eaſily kept in order for a long time; and ſo they are being planted with Box, ſmall Mirtle, Cypreſs, <hi>&amp;c.</hi>
+               </p>
+               <figure>
+                  <pb facs="tcp:31722:60"/>
+                  <pb facs="tcp:31722:61"/>
+                  <pb facs="tcp:31722:62"/>
+                  <figDesc>dialing diagram</figDesc>
+                  <head>Figure 3. Place it before page 91.</head>
+               </figure>
+            </div>
+            <div type="part">
+               <pb n="91" facs="tcp:31722:62"/>
+               <head>To draw another Di<g ref="char:EOLhyphen"/>al on an Horizontal Plane.</head>
+               <p>VVHen you have found your Plane, or Green whereon you deſire to have your Dial drawn, to be level with the Horizon; then draw the Meridian Line, and in this Line make choice of a Center, as at <hi>C,</hi> through which point <hi>C</hi> draw the Line <hi>D E,</hi> croſſing the Meridian at right Angles; which Line is for ſix a clock in the morning and even<g ref="char:EOLhyphen"/>ing.</p>
+               <p>Then draw the height of the Stile, or cock of the Dial accor<g ref="char:EOLhyphen"/>ding
+<pb n="92" facs="tcp:31722:63"/>to your Radius to be 52 de<g ref="char:EOLunhyphen"/>grees and 20 minutes, making th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Angle <hi>S C A,</hi> then at the North<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> end of the Meridian-line draw another Line, as <hi>F G</hi> croſſing th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Meridian at right Angles; this Line is called the Touch-line; o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Line of contingence.</p>
+               <p>Then ſet one foot of your Compaſſes in the foot <hi>A,</hi> and with the other take the neareſt ex<g ref="char:EOLhyphen"/>tent unto the Line <hi>S C,</hi> or the Stile, with this diſtance turning your Compaſſes about with one foot ſtill in the point <hi>A,</hi> with the other make a mark in the meri<g ref="char:EOLhyphen"/>dian, as at <hi>I,</hi> which ſhall be the Center of the Equinoctial, upon which deſcribe the Equinoctial Circle <hi>A D B E,</hi> with this ſame diſtance ſetting one foot in the point <hi>A,</hi> make a mark at <hi>F</hi> on the one ſide of the Meridian, and
+<pb n="93" facs="tcp:31722:63"/>another at <hi>G</hi> on the other ſide there<g ref="char:EOLhyphen"/>of, both which ought to be made <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Line of contingence, by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich two points, and the Cen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r <hi>C,</hi> you may draw the Hour<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nes of 3 and 9.</p>
+               <p>This ſame diſtance of your Compaſſes being kept with one <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot ſtill in the Genter <hi>A,</hi> with the other make the marks <hi>K L</hi> in the Equinoctial Circle. Then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aying your rule upon the Center <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Equinoctial, and upon thoſe two laſt diviſions in the Circle thereof where the rule ſhall touch the Line of contin<g ref="char:EOLhyphen"/>gence, there mark it as at <hi>H</hi> and <hi>P,</hi> by which points and the Center <hi>C,</hi> you may draw the Hour-lines of 10 and 11, the like may you do on the other ſide of the Meri<g ref="char:EOLhyphen"/>dian, ſo have you ſix of your Hour<g ref="char:EOLhyphen"/>lines drawn.</p>
+               <pb n="92" facs="tcp:31722:64"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="93" facs="tcp:31722:64"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="94" facs="tcp:31722:65"/>
+               <p>And now for the drawing o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your 4 and 5, and alſo 7 and 8 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Clock-lines, it is poſſible your Touch-line, or Line of contin<g ref="char:EOLhyphen"/>gence may out-run your Plane, as you may ſee by Figure the third, we will therefore ſhew how you may on a Graſs plot or elſewhere draw thoſe Lines with Chalk, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by the uſe of a Thread, or any ſmall Line you may do it, not out<g ref="char:EOLhyphen"/>running the compaſs of the Dial<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> As thus,</p>
+               <p>From the interſection of the hours of 9 and 3 with the Touch<g ref="char:EOLhyphen"/>line draw the Line <hi>F D</hi> (as you may ſee Figure 4th) and <hi>G E</hi> pa<g ref="char:EOLhyphen"/>rallel to the Meridian <hi>A B,</hi> until they cut the Line of Eaſt and Weſt in the points <hi>D</hi> and <hi>E,</hi> the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> draw the Lines <hi>A D</hi> and <hi>A E,</hi> this being done, ſet one foot of
+<pb n="95" facs="tcp:31722:65"/>your Compaſſes in the point <hi>H,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> with the other take the neareſt <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ent unto the Line <hi>A E,</hi> this <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tance being kept, ſix one foot <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Line <hi>G E,</hi> ſo as the other <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y but touch the Line <hi>A E</hi> at the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>O,</hi> by which and the Center <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you may draw the 7 a clock <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>our-line: in like manner may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> place one foot in the point <hi>P,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with the other take the ſhort<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>extent unto the Line <hi>A E,</hi> with <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>is diſtant fixing one foot in the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ne <hi>G E,</hi> ſo as the other may but <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ly touch the Line <hi>A E,</hi> ſo ſhall <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e fixed point reſt n the foot <hi>Q.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y which and the Center <hi>C</hi> you <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ay draw the 8 a clock hour line, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e like may be done on the other <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>de or the Meridian; or you may <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y theſe diſtances thus form'd, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rick out the li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e on the other ſide <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>of the Meridian.</p>
+               <pb n="94" facs="tcp:31722:66"/>
+               <p>And ſo by dividing but o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> eitht part of the Equinct<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Circle into 3 equal parts, you m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> draw your whole Dial.</p>
+               <p>What is here ſpoken concern<g ref="char:EOLunhyphen"/>ing the hours, the like is to be un<g ref="char:EOLhyphen"/>derſtood in drawing the halfhour<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lines and quarters, if it be re<g ref="char:EOLunhyphen"/>quired; or elſe by dividing th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpaces between the hour-lines i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to halfs, and thoſe halfs again be<g ref="char:EOLunhyphen"/>ing divided equally, you have th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the half, and quarter of an ho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> exact enough.</p>
+               <figure>
+                  <pb facs="tcp:31722:66"/>
+                  <pb facs="tcp:31722:67"/>
+                  <pb facs="tcp:31722:68"/>
+                  <pb facs="tcp:31722:69"/>
+                  <figDesc>dialing diagram</figDesc>
+                  <head>Figure 4. Place it between page 94 and 95.</head>
+               </figure>
+            </div>
+            <div type="glossary">
+               <pb n="95" facs="tcp:31722:69"/>
+               <head>An Explanation of all ſuch words as are made uſe of herein; which to ſome may ſeem difficult.</head>
+               <p>
+                  <hi>ANgle,</hi> Is the meeting of two Lines in any ſort, ſo as they make both make not one Line, as you may ſee Fi<g ref="char:EOLhyphen"/>gure the firſt; and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o of all the reſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n in ordre.<figure>
+                     <p>1</p>
+                  </figure>
+               </p>
+               <p n="2">2. <hi>Center,</hi> Is a point, or prick <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the middle of a Line, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ircle, <hi>&amp;c.</hi> being the Center to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at Circle.<figure>
+                     <p>2</p>
+                  </figure>
+               </p>
+               <pb n="96" facs="tcp:31722:70"/>
+               <p n="3">3. <hi>Circle,</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> circumference, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a plain Figur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> drawn exactl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> round; of Cricle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there are 6 where<g ref="char:EOLunhyphen"/>of the Sphere i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> compoſed.<figure>
+                     <p>3</p>
+                  </figure>
+               </p>
+               <p n="4">4. <hi>Diameter,</hi> i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is a right Lin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> drawn throug<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Center of a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Circle, dividi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the whole Circ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> into two equ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> parts.<figure>
+                     <p>4</p>
+                  </figure>
+               </p>
+               <p n="5">5. <hi>Equinoctial,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Equinoctial-C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cle, is a Circle that croſſes th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Angles, and divideth the Sphe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into two equal parts.<figure>
+                     <p>5</p>
+                  </figure>
+               </p>
+               <pb n="97" facs="tcp:31722:70"/>
+               <p n="6">6. <hi>Hoizon,</hi> is the fartheſt di<g ref="char:EOLhyphen"/>ſtance that the eye can ſee, or the bounds of ſight; or it is a Circle dividing the ſuperior He<g ref="char:EOLhyphen"/>miſphere from the inferior. Ho<g ref="char:EOLhyphen"/>rizontal is any thing that lyeth level with the Horizon.<figure>
+                     <p>6</p>
+                  </figure>
+               </p>
+               <p n="7">7. <hi>Interſection</hi> is a cutting off; as where one line cutteth another, it is called the place of Inter<g ref="char:EOLhyphen"/>fection.<figure>
+                     <p>7</p>
+                  </figure>
+               </p>
+               <pb facs="tcp:31722:71"/>
+               <pb n="99" facs="tcp:31722:71"/>
+               <p n="8">8. <hi>Meridian.</hi> is a great Circle paſſing through the Poles of the world, right over our heads, and is ſo called becauſe when the Sun cometh thereto it is then high noon, or <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a clock, at what time or in what place of the world ſo<g ref="char:EOLhyphen"/>ever.<figure>
+                     <p>8</p>
+                  </figure>
+               </p>
+               <p n="9">9. <hi>Parallel-Line,</hi> is a ſtr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight Line.<figure>
+                     <p>9</p>
+                  </figure>
+               </p>
+               <p n="10">10. <hi>Parallel-lines</hi> or right li<g ref="char:EOLhyphen"/>ned Parallels are two right lines equi-diſtant one from the other.<figure>
+                     <p>10</p>
+                  </figure>
+               </p>
+               <p n="11">11. A <hi>Circular-parallel,</hi> is a Circle drawn either within or without another Circle upon the ſame Center.<figure>
+                     <p>11</p>
+                  </figure>
+               </p>
+               <p n="12">12. <hi>Perpendicular,</hi> is a Line raiſed from, or let fall upon ano<g ref="char:EOLhyphen"/>ther Line making equal Angles on both ſides.<figure>
+                     <p>12</p>
+                  </figure>
+               </p>
+               <p n="13">13. <hi>Quadrant,</hi> is the fourth part of a Circle, or 90 degrees.<figure>
+                     <p>13</p>
+                  </figure>
+               </p>
+               <pb n="100" facs="tcp:31722:72"/>
+               <p n="14">14. <hi>Semi-circle,</hi> Is 180 De<g ref="char:EOLhyphen"/>grees, or his one half of a Circle drawn upon the Diameter, being contained above the Diameter.<figure>
+                     <p>14</p>
+                  </figure>
+               </p>
+               <p n="15">15. <hi>Semi-diameter,</hi> is half of the Diamiter, and is contained be<g ref="char:EOLhyphen"/>twixt the Center and the one ſide of the Circle.<figure>
+                     <p>15</p>
+                  </figure>
+               </p>
+               <p n="16">16. <hi>Stile,</hi> is the latitude of the place we are in, as you may ſee by the triangle Figure 16th.<figure>
+                     <p>16</p>
+                  </figure>
+               </p>
+               <pb facs="tcp:31722:72"/>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:31722:73"/>
+            <head>Books newly Printed for <hi>William Crooke</hi> at the <hi>Green Dragon</hi> without <hi>Temple-Barr.</hi>
+            </head>
+            <p n="1">1. <hi>PPraxis Curiae Admiralitat<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Anglia Auhore Franſc. Clerk,</hi> printed 1667. in <hi>Octo.</hi> price 1 <abbr>s.</abbr>
+            </p>
+            <p n="2">2. <hi>Hug. Grotli Baptizatorum Puerorum Institutio alternis; inter<g ref="char:EOLhyphen"/>rogationibus &amp; reſponſionibus, Cui adjicitur Graeca ejuſdem Me<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phraſis Ch. Waſe, &amp;c. Quibus ac<g ref="char:EOLhyphen"/>ceſſic Praxis in Graecam Metaphraſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> per B. Beale, &amp;c. Verſion in Eng</hi> By <hi>Francis Goldſmitb</hi> 
+               <abbr>Eſq</abbr> Print<g ref="char:EOLhyphen"/>ed 1668. in <hi>Oct.</hi> price, 2 <abbr>s.</abbr>
+            </p>
+            <p>A Tract concernign Schiſm a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Schiſmaticks; wherein is brie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:31722:73"/>diſcovered the original cauſes of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Schiſm. By <hi>John Hales</hi> of <hi>Ea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> in <hi>Quar.</hi> price 6 <abbr>d.</abbr>
+            </p>
+            <p n="4">4. The Compleat Meaſurer, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an exact new way of Menſura<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on. <hi>Decimal Arith.</hi> by <hi>T. Ham<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ond.</hi> Printed 1669. in <hi>Octavo,</hi> price 1 <abbr>s.</abbr>
+            </p>
+            <p n="5">5. A Voyage into the <hi>Levant,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing a Journey lately performed <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om <hi>England</hi> by the way of <hi>Ve<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ice</hi> to <hi>Grand Cairo,</hi> &amp;c. with par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cular obſervations of the Mo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ern condition of the Turks. B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Hen Blunt.</hi> Printed 1671. in <hi>Twelves,</hi> price 2 <abbr>s.</abbr>
+            </p>
+            <p n="6">6. The Court of Curioſity, wherein by the Lot the moſt in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>icate queſtions are reſolved, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cturnal dreams and viſions ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ained according to the doctrines of the Antients; to which is ad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d a Treatiſe of Phyſiognomy. Written in French by D. <hi>Vul<g ref="char:EOLhyphen"/>ſon,
+<pb facs="tcp:31722:74"/>M.</hi> of Sr. <hi>Gent.</hi> to the French King, tranſlated into Spaniſh, Italian, Dutch, and now into Engliſh. by <hi>J. G.</hi> Gent. Printed 1670. in <hi>Oct.</hi> price 2 <abbr>s.</abbr>
+            </p>
+            <p n="7">7. A Deſcription of <hi>Candia</hi> in in its antient &amp; modern ſtate, with an account of the Siege begun by the <hi>Ottoman</hi> Emperor, 1666. con<g ref="char:EOLhyphen"/>tinued 1667, 1668. &amp; ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r end re<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 1669. Printed 1670. in <hi>Oct.</hi> price 1 <abbr>s.</abbr>
+            </p>
+            <p n="8">8. <hi>Epigrams</hi> of all ſorts made <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> divere times, and on ſeveral occa<g ref="char:EOLhyphen"/>ſions. By <hi>R. F.</hi> Printed 1670 in <hi>Oct.</hi> price 1 <abbr>s.</abbr> Alſo his Love Kingdom, and Enigmatical Cha<g ref="char:EOLhyphen"/>racters.</p>
+            <p n="9">9. The Compleat Vineyard, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an excellent way for the planting of Vines according to the G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>man and french manner, and lo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> practiſed in <hi>England,</hi> wherein <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſet forth the waies and all the ci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cumſtances
+<pb facs="tcp:31722:74"/>neceſſary for the plan<g ref="char:EOLhyphen"/>ting a Vineyard, with the electi<g ref="char:EOLhyphen"/>on of the ſoile, <hi>&amp;c.</hi> alſo the faſhion of Wine-preſſes, the manner of bruiſing and preſſing of Grapes, and to advance our Engliſh wines, inlarged by the Author. <hi>W. Hughes</hi> 1670. in <hi>Octo.</hi> price 1 <abbr>s.</abbr> 6. <abbr>d.</abbr>
+            </p>
+            <p n="10">10. Jeſuites Morals in Engl. Printed 1670. in Folio, price 10 <abbr>s.</abbr>
+            </p>
+            <p n="11">11, A Sermon preached at the Funeral of a ſober Religious man drown'd in a pit, wherein ſudden death is conſidered, and more ex<g ref="char:EOLhyphen"/>cellently handled then ever yet extant. By a learned and reve<g ref="char:EOLhyphen"/>rend Divine. Printed 1670. in <hi>Oct.</hi> price 1 <abbr>s.</abbr>
+            </p>
+            <p n="12">12. <hi>Roſetum Geometricum. Sive Propoſitiones aliquot fruſtra ante<g ref="char:EOLhyphen"/>hac tentatae, cum cenſura Brevi Do<g ref="char:EOLhyphen"/>ctrinae Walliſianae de Motu, Autho<g ref="char:EOLhyphen"/>re Tho. Hobbes Malmſburienſi.</hi> Prin<g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:31722:75"/>1671. in <hi>Quarto,</hi> price <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p n="13">13. The preſervation of h<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and prolongation life prope<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and proved, in the due obſerv<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of remarkable precautions <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> daily practicable rules, <hi>&amp;c.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Dr. <hi>Manwaring,</hi> in <hi>Oct.</hi> price <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>The Compleat Phyſitian <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lified and dignified, the riſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> progreſs of Phiſick, Hiſtorica<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chronologically, and Philo<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>phically illuſtrated, Phyſiti<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of divers Sects and Judgment diſtinguiſhed, the abuſes of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dieines detected, <hi>&amp;c.</hi> By Dr. <hi>M<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>waring,</hi> in <hi>Oct.</hi> price 1 <abbr>s.</abbr>
+            </p>
+            <p n="15">15. <hi>Vittoria Corombona,</hi> or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> white Devil, a Tragedy, as it is <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed at the Theatre Royal by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Majeſties ſervants. Written <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>J. W.</hi> 1672. in <hi>Q<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> price 1 <abbr>s.</abbr>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
